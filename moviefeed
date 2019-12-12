@@ -505,7 +505,98 @@
    ]
   }
 },
-
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/solo_quimica",
+   "url" : "https://flixlatino.com/title/solo_quimica",
+   "name" : "SÓLO QUÍMICA",
+   "description" : "Olivia Romero tiene 22 años, trabaja en una perfumería y no sabe exactamente qué hacer con su vida. Popular actor argentino Eric Soto, es un joven que lleva toda su vida entre cámaras y sets de rodaje. Eric está acostumbrado a una vida de lujo. Pero algo le llama la atención cuando se cruza con Oli." ,
+   "image" : "https://flximg.flixlatinogo.com/dmqfzdscjc0k0k4sgc.jpg",
+   "dateCreated" : "2015-07-24",
+   "inLanguage" : "es",
+   "genre" : "Comedia, Romance, Comedia Romántica",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Ana Fernández", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Ana_Fernandez_Garcia"
+    },
+    {
+     "@type" : "Person",
+     "name" : " Rodrigo Guirao Díaz", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Rodrigo_Guirao_Diaz"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Alfonso Albacete",
+      "sameAs" : "https://es.wikipedia.org/wiki/Alfonso_Albacete_(director)"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-04-25",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=483&slug=solo_quimica",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "ES"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Solo_quimica",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3028418"
+    }
+   ]
+  }
+}
 ]
 }
 </script>
