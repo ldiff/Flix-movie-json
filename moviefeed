@@ -596,6 +596,108 @@
     }
    ]
   }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/manos_sucias",
+   "url" : "https://flixlatino.com/title/manos_sucias",
+   "name" : "MANOS SUCIAS",
+   "description" : "Dos hermanos que habían estado separados, Jacobo y Delio, se reúnen para mover un cargamento de drogas. Jacobo quiere mudarse a Bogotá y Delio, como tantos otros jóvenes de Buenaventura, quiere convertirse en un rapero famoso para salir de su tierra de pescadores y delincuencia." ,
+   "image" : "https://flximg.flixlatinogo.com/rpbbwe4p82ogg4okgk.jpg",
+   "dateCreated" : "2014-10-09",
+   "inLanguage" : "es",
+   "genre" : "Aventura, Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Cristian James Abvincula", 
+     "sameAs" : "https://www.imdb.com/name/nm5808233/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Jarlin Javier Martínez", 
+     "sameAs" : "https://www.imdb.com/name/nm5808232/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Yesica Orobio", 
+     "sameAs" : "https://www.imdb.com/name/nm7173663/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Andrés Reina Ruiz", 
+     "sameAs" : "https://www.imdb.com/name/nm3045970/"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Josef Kubota Wladyka",
+      "sameAs" : "https://www.imdb.com/name/nm2129610/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2014-10-09",
+        "location": {
+          "@type": "Country",
+          "name": "CO"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=492&slug=manos_sucias",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "CO"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Manos_sucias",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3062414"
+    }
+   ]
+  }
 }
 ]
 }
