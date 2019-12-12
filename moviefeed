@@ -800,6 +800,108 @@
     }
    ]
   }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/el_jugador_de_ajedrez",
+   "url" : "https://flixlatino.com/title/el_jugador_de_ajedrez",
+   "name" : "EL JUGADOR DE AJEDREZ",
+   "description" : "En 1934 Diego Padilla gana el campeonato de España de ajedrez y conoce a una periodista francesa, Marianne Latour, de la cual se enamora. Se vayan a vivir a Francia, donde poco tiempo después Diego será acusado de espía por los nazis y encerrado en una prisión de las SS." ,
+   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "dateCreated" : "2017-05-05",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Marc Clotet", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Marc_Clotet"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Melina Matthews", 
+     "sameAs" : "https://www.imdb.com/name/nm3172796/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Alejo Sauras", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Alejo_Sauras"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Andrés Gertrúdix", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Andres_Gertrudix"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Luis Oliveros",
+      "sameAs" : "https://www.imdb.com/name/nm0647099/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2017-05-05",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=522&slug=joven_y_alocada",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "ES"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/El_jugador_de_ajedrez",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt5732530"
+    }
+   ]
+  }
 }
 ]
 }
