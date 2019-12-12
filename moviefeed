@@ -207,7 +207,7 @@
   {
    "@context": ["http://schema.org", {"@language": "es"}],
    "@type": "Movie", 
-   "@id" : "https://www.flixlatino.com/title/cambio_de_rutae",
+   "@id" : "https://www.flixlatino.com/title/cambio_de_ruta",
    "url" : "https://www.flixlatino.com/title/cambio_de_ruta",
    "name" : "CAMBIO DE RUTA",
    "description" : "Nicté es la mejor Guía de Turistas de la Riviera Maya, sus tours están llenos de aventuras inigualables!  De pronto la compañía local para la cual trabaja es comprada por una trasnacional y Nicté se vera forzada a comenzar desde cero formando su propia empresa." ,
@@ -251,7 +251,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=397&slug=cambio_de_ruta",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -300,7 +300,212 @@
     }
    ]
   }
-}
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/chicas_paranoicas",
+   "url" : "https://www.flixlatino.com/title/chicas_paranoicas",
+   "name" : "CHICAS PARANOICAS",
+   "description" : "Chicas Paranoicas relata la historia de Ana, Paula y Verónica, que conocen el mundo de la Moda por casualidad, se entusiasman, y deciden triunfar en ese universo caracterizado por el reconocimiento social, pero también competitivo, duro y difícil para quien no está dispuesto a asumir riesgos." ,
+   "image" : "https://flximg.flixlatinogo.com/inogpopopzk8s8wkcg.jpg",
+   "dateCreated" : "2015-11-13",
+   "inLanguage" : "es",
+   "genre" : "Comedia, Comedia Romántica",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Ángel de Miguel", 
+     "sameAs" : "https://es.wikipedia.org/wiki/angel_de_Miguel"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Patricia Valley", 
+     "sameAs" : "https://www.imdb.com/name/nm6926693/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Bárbara de Lema", 
+     "sameAs" : "https://www.imdb.com/name/nm0209622/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Mairen Muñoz", 
+     "sameAs" : "https://www.imdb.com/name/nm4707502/"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Pedro del Santo",
+      "sameAs" : "https://www.imdb.com/name/nm5542805/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-07-09",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=472&slug=chicas_paranoicas",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "ES"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt4195920/",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt4195920"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/y_tu_mama_tambien",
+   "url" : "https://flixlatino.com/title/y_tu_mama_tambien",
+   "name" : "Y TU MAMÁ TAMBIÉN",
+   "description" : "Aunque pertenecen a clases sociales muy distintas, Julio y Tenoch son grandes amigos. En una fiesta conocen a Luisa, una deprimida chica española casada con un primo de Tenoch. Para superar la crisis, Luisa decide acompañar a los dos chicos en un viaje sin rumbo fijo." ,
+   "image" : "https://flximg.flixlatinogo.com/51ocgxsjm9c88sc4g0.jpg",
+   "dateCreated" : "2001-06-08",
+   "inLanguage" : "es",
+   "genre" : "Drama, Comedia",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Maribel Verdú", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Maribel_Verdu"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Diego Luna", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Diego_Luna"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Daniel Giménez Cacho", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Daniel_Gimenez_Cacho"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Gael García Bernal", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Gael_Garcia_Bernal"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Alfonso Cuarón",
+      "sameAs" : "https://en.wikipedia.org/wiki/Alfonso_Cuaron"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2001-06-08",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=513&slug=y_tu_mama_tambien",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "MX"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Y_Tu_Mama_Tambien",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt0245574"
+    }
+   ]
+  }
+},
+
 ]
 }
 </script>
