@@ -81,7 +81,16 @@
     "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
     "name": "Monthly Subscription",
     "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
-  }
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
  },
  "sameAs" : "https://en.wikipedia.org/wiki/No_s%C3%A9_si_cortarme_las_venas_o_dej%C3%A1rmelas_largas",
   "identifier": [
