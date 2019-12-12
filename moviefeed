@@ -101,6 +101,205 @@
     }
    ]
   }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/kiki_el_amor_se_hace",
+   "url" : "https://flixlatino.com/title/kiki_el_amor_se_hace",
+   "name" : "KIKI, EL AMOR SE HACE",
+   "description" : "Cinco historias de amor y de curiosas filias sexuales coinciden en un calenturiento verano madrileño. Sus sentimientos, sus miedos y sobre todo su sexualidad se transforman rompiendo tabúes, adentrándose en una etapa nueva, emocionante y libre donde no se reniega ni del placer ni del amor." ,
+   "image" : "https://flximg.flixlatinogo.com/tyf16mkortww44o08.jpg",
+   "dateCreated" : "2016-04-01",
+   "inLanguage" : "es",
+   "genre" : "Comedia, Comedia Romántica",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Paco León", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Paco_Leon"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Ana Katz", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Ana_Katz"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Belén Cuesta", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Bel%C3%A9n_Cuesta"
+    },
+    {
+      "@type" : "Person",
+      "name" : "Natalia de Molina",
+      "sameAs" : "https://en.wikipedia.org/wiki/Natalia_de_Molina"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Paco León",
+      "sameAs" : "https://en.wikipedia.org/wiki/Paco_Leon"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2016-04-02",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "ES"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Kiki,_Love_to_Loves",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt4922692"
+    }
+   ]
+  }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/cambio_de_rutae",
+   "url" : "https://www.flixlatino.com/title/cambio_de_ruta",
+   "name" : "CAMBIO DE RUTA",
+   "description" : "Nicté es la mejor Guía de Turistas de la Riviera Maya, sus tours están llenos de aventuras inigualables!  De pronto la compañía local para la cual trabaja es comprada por una trasnacional y Nicté se vera forzada a comenzar desde cero formando su propia empresa." ,
+   "image" : "https://flximg.flixlatinogo.com/2b90w15vdz8ksoww4s.jpg",
+   "dateCreated" : "2014-05-23",
+   "inLanguage" : "es",
+   "genre" : "Aventura, Comedia, Comedia Romántica",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Sandra Echeverría", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Sandra_Echeverria"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Osvaldo De León", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Osvaldo_de_Leon"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Héctor Jiménez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Hector_Jimenez"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Chris Hool",
+      "sameAs" : "https://www.imdb.com/name/nm0393674/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2014-05-23",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "MX"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt2329188/",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2329188"
+    }
+   ]
+  }
 }
 ]
 }
