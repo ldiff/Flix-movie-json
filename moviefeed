@@ -902,6 +902,108 @@
     }
    ]
   }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/la_isla_minima",
+   "url" : "https://flixlatino.com/title/la_isla_minima",
+   "name" : "LA ISLA MINIMA",
+   "description" : "Dos policías, ideológicamente opuestos, son enviados desde Madrid a un pueblo en las marismas del Guadalquivir, para investigar la desaparición de dos chicas adolescentes. En una comunidad anclada en el pasado, tendrán que enfrentarse no sólo a un cruel asesino, sino también a sus propios fantasmas." ,
+   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "dateCreated" : "2014-09-26",
+   "inLanguage" : "es",
+   "genre" : "Drama, Suspenso, Terror",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Raúl Arévalo", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Raul_Arevalo"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Javier Gutiérrez", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Javier_Gutierrez_(actor)"
+    },
+    {
+     "@type" : "Person",
+     "name" : "María Varod", 
+     "sameAs" : "https://www.imdb.com/name/nm7102804/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Antonio de la Torre Martín", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Antonio_de_la_Torre_Martin"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Alberto Rodríguez",
+      "sameAs" : "https://es.wikipedia.org/wiki/Alberto_Rodriguez_Librero"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2014-09-26",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=433&slug=la_isla_minima",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "ES"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/La_isla_minima",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3253930"
+    }
+   ]
+  }
 }
 ]
 }
