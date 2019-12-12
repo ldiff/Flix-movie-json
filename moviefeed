@@ -698,6 +698,108 @@
     }
    ]
   }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/joven_y_alocada",
+   "url" : "https://flixlatino.com/title/joven_y_alocada",
+   "name" : "JOVEN Y ALOCADA",
+   "description" : "Daniela es una chica de 17 años criada en el seno de una conservadora familia evangélica. Partida entre la culpa cristiana y su innata rebeldía, Daniela vive una traumática noche de excesos que le traerá el castigo de sus padres y su propio cuestionamiento existencial." ,
+   "image" : "https://flximg.flixlatinogo.com/q8z1ouyvzxw8ggwk0.jpg",
+   "dateCreated" : "2012-03-29",
+   "inLanguage" : "es",
+   "genre" : "Comedia, Drama, Romance",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Alicia Rodríguez", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Alicia_Rodriguez_(actriz_chilena)"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Aline Küppenheim", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Aline_Kuppenheim"
+    },
+    {
+     "@type" : "Person",
+     "name" : "María Gracia Omegna", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Maria_Gracia_Omegna"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Felipe Pinto", 
+     "sameAs" : "https://www.imdb.com/name/nm4796101/"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Marialy Rivas",
+      "sameAs" : "https://es.wikipedia.org/wiki/Marialy_Rivas"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2012-03-29",
+        "location": {
+          "@type": "Country",
+          "name": "CL"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=522&slug=joven_y_alocada",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2025-01-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "CL"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Joven_y_alocada",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2125698"
+    }
+   ]
+  }
 }
 ]
 }
