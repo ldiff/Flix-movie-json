@@ -3,7 +3,7 @@
   "@type" : "DataFeed",
   "name" : "Flix Movie Feed",
   "description" : "Feed containing movies currently on the FlixLatino platform",
-  "dateModified" : "2019-12-12T10:18:51EST",
+  "dateModified" : "2019-03-06T10:18:51EST",
   "dataFeedElement" : [
   {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -65,7 +65,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2020-10-31T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -73,7 +73,7 @@
       },
       {
         "@type": "Country",
-        "name": "MX"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -167,7 +167,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2022-04-30T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -175,7 +175,7 @@
       },
       {
         "@type": "Country",
-        "name": "ES"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -264,7 +264,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2020-09-30T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -272,7 +272,7 @@
       },
       {
         "@type": "Country",
-        "name": "MX"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -366,7 +366,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2022-07-31T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -374,7 +374,7 @@
       },
       {
         "@type": "Country",
-        "name": "ES"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -468,7 +468,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2021-02-28T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -476,7 +476,7 @@
       },
       {
         "@type": "Country",
-        "name": "MX"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -511,7 +511,7 @@
    "@id" : "https://flixlatino.com/title/solo_quimica",
    "url" : "https://flixlatino.com/title/solo_quimica",
    "name" : "SÓLO QUÍMICA",
-   "description" : "Olivia Romero tiene 22 años, trabaja en una perfumería y no sabe exactamente qué hacer con su vida. Popular actor argentino Eric Soto, es un joven que lleva toda su vida entre cámaras y sets de rodaje. Eric está acostumbrado a una vida de lujo. Pero algo le llama la atención cuando se cruza con Oli." ,
+   "description" : "Olivia Romero tiene 22 años, trabaja en una perfumería y no sabe exactamente qué hacer con su vida. El actor argentino Eric Soto, es un joven que lleva toda su vida entre cámaras y sets de rodaje. Eric está acostumbrado a una vida de lujo. Pero algo le llama la atención cuando se cruza con Oli." ,
    "image" : "https://flximg.flixlatinogo.com/dmqfzdscjc0k0k4sgc.jpg",
    "dateCreated" : "2015-07-24",
    "inLanguage" : "es",
@@ -560,7 +560,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2023-07-31T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -568,7 +568,7 @@
       },
       {
         "@type": "Country",
-        "name": "ES"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -662,7 +662,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2022-04-01T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -670,7 +670,7 @@
       },
       {
         "@type": "Country",
-        "name": "CO"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -764,7 +764,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2024-09-30T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -772,7 +772,7 @@
       },
       {
         "@type": "Country",
-        "name": "CL"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -807,7 +807,7 @@
    "@id" : "https://flixlatino.com/title/el_jugador_de_ajedrez",
    "url" : "https://flixlatino.com/title/el_jugador_de_ajedrez",
    "name" : "EL JUGADOR DE AJEDREZ",
-   "description" : "En 1934 Diego Padilla gana el campeonato de España de ajedrez y conoce a una periodista francesa, Marianne Latour, de la cual se enamora. Se vayan a vivir a Francia, donde poco tiempo después Diego será acusado de espía por los nazis y encerrado en una prisión de las SS." ,
+   "description" : "En 1934 Diego Padilla gana el campeonato de España de ajedrez y conoce a una periodista francesa, Marianne Latour, de la cual se enamora. Se van a vivir a Francia, donde poco tiempo después Diego será acusado de espía por los nazis y encerrado en una prisión de las SS." ,
    "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
    "dateCreated" : "2017-05-05",
    "inLanguage" : "es",
@@ -866,7 +866,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2023-05-31T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -874,7 +874,7 @@
       },
       {
         "@type": "Country",
-        "name": "ES"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -932,7 +932,7 @@
     },
     {
      "@type" : "Person",
-     "name" : "Antonio de la Torre Martín", 
+     "name" : "Antonio de la Torre", 
      "sameAs" : "https://es.wikipedia.org/wiki/Antonio_de_la_Torre_Martin"
     }    
   ],
@@ -968,7 +968,7 @@
     "@type": "ActionAccessSpecification",
     "category": "subscription",
     "availabilityStarts": "2019-01-01T00:00EST",
-    "availabilityEnds": "2025-01-31T00:00EST",
+    "availabilityEnds": "2020-09-30T00:00EST",
     "eligibleRegion": [
       {
         "@type": "Country",
@@ -976,7 +976,7 @@
       },
       {
         "@type": "Country",
-        "name": "ES"
+        "name": "PR"
        }
      ],
   "requiresSubscription": {
@@ -1004,7 +1004,8 @@
     }
    ]
   }
-}
+},
 ]
 }
-</script>
+
+
