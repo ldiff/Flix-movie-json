@@ -1102,11 +1102,122 @@
     {
      "@type": "PropertyValue",
      "propertyID": "IMDB_ID",
-     "value":  tt1648216"
+     "value":  "tt1648216"
     }
    ]
   }
 },
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/tengo-ganas-de-ti",
+   "url" : "https://flixlatino.com/title/tengo-ganas-de-ti",
+   "name" : "Tengo Ganas de Ti",
+   "description" : "La sexy Gin (Clara Lago) es el nuevo amor de Hache (Mario Casas), pero éste no puede olvidar a su antigua novia, Babi (María Valverde). Hache ha vuelto a casa tras pasar una temporada en Londres, alejado del recuerdo imborrable de aquel primer amor. Para poder reconstruir su vida y olvidar el pasado" ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/13kx6drd4qkgs48cwk.jpg",
+   "dateCreated" : "2012-06-22",
+   "inLanguage" : "es",
+   "genre" : "Drama, Romance",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Mario Casas", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Mario_Casas"
+    },
+    {
+     "@type" : "Person",
+     "name" : "María Valverde", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Maria_Valverde"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Álvaro Cervantes", 
+     "sameAs" : "https://es.wikipedia.org/wiki/alvaro_Cervantes"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Marina Salas", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Marina_Salas"
+    }
+    {
+     "@type" : "Person",
+     "name" : "Clara Lago",
+     "sameAs" : "https://es.wikipedia.org/wiki/Clara_Lago"
+    }
+    {
+     "@type" : "Person",
+     "name" : "Nerea Camacho",
+     "sameAs" : "https://es.wikipedia.org/wiki/Nerea_Camacho"
+     }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Fernando González Molina",
+      "sameAs" : "https://es.wikipedia.org/wiki/Fernando_Gonzalez_Molina"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2012-06-22",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/tengo-ganas-de-ti",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Tengo_ganas_de_ti",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1797504"
+    }
+   ]
+  },
 ]
 }
 
