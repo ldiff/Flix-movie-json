@@ -12,7 +12,7 @@
    "url" : "https://flixlatino.com/title/no_se_si_cortarme_las_venas_o_dejarmelas_largas",
    "name" : "NO SÉ SI CORTARME LAS VENAS O DEJÁRMELAS LARGAS",
    "description" : "La trama inicia con el estruendoso ruido de dos disparos, uno por un posible homicidio y el otro por suicidio. El primero, porque Nora le apunta con una pistola a su esposo Aarón, a quien le reclama su infidelidad, y el segundo porque ‘Félix’ cae en depresión por carecer del apoyo de su novia." ,
-   "image" : "https://flximg.flixlatinogo.com/7yokdzb0gv8kwggkw.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/4p1c46evclussc0c8.jpg",
    "dateCreated" : "2013-08-23",
    "inLanguage" : "es",
    "genre" : "Comedia",
@@ -52,7 +52,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=421&slug=no_se_si_cortarme_las_venas_o_dejarmelas_largas",
+      "urlTemplate": "https://flixlatino.com/title/no_se_si_cortarme_las_venas_o_dejarmelas_largas",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -109,7 +109,7 @@
    "url" : "https://flixlatino.com/title/kiki_el_amor_se_hace",
    "name" : "KIKI, EL AMOR SE HACE",
    "description" : "Cinco historias de amor y de curiosas filias sexuales coinciden en un calenturiento verano madrileño. Sus sentimientos, sus miedos y sobre todo su sexualidad se transforman rompiendo tabúes, adentrándose en una etapa nueva, emocionante y libre donde no se reniega ni del placer ni del amor." ,
-   "image" : "https://flximg.flixlatinogo.com/tyf16mkortww44o08.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/2qa5g8cqw0isssog44.jpg",
    "dateCreated" : "2016-04-01",
    "inLanguage" : "es",
    "genre" : "Comedia, Comedia Romántica",
@@ -154,7 +154,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/",
+      "urlTemplate": "https://flixlatino.com/title/kiki_el_amor_se_hace",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -211,7 +211,7 @@
    "url" : "https://www.flixlatino.com/title/cambio_de_ruta",
    "name" : "CAMBIO DE RUTA",
    "description" : "Nicté es la mejor Guía de Turistas de la Riviera Maya, sus tours están llenos de aventuras inigualables!  De pronto la compañía local para la cual trabaja es comprada por una trasnacional y Nicté se vera forzada a comenzar desde cero formando su propia empresa." ,
-   "image" : "https://flximg.flixlatinogo.com/2b90w15vdz8ksoww4s.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/mnqnzol830g44gscs.jpg",
    "dateCreated" : "2014-05-23",
    "inLanguage" : "es",
    "genre" : "Aventura, Comedia, Comedia Romántica",
@@ -251,7 +251,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=397&slug=cambio_de_ruta",
+      "urlTemplate": "https://www.flixlatino.com/title/cambio_de_ruta",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -308,7 +308,7 @@
    "url" : "https://www.flixlatino.com/title/chicas_paranoicas",
    "name" : "CHICAS PARANOICAS",
    "description" : "Chicas Paranoicas relata la historia de Ana, Paula y Verónica, que conocen el mundo de la Moda por casualidad, se entusiasman, y deciden triunfar en ese universo caracterizado por el reconocimiento social, pero también competitivo, duro y difícil para quien no está dispuesto a asumir riesgos." ,
-   "image" : "https://flximg.flixlatinogo.com/inogpopopzk8s8wkcg.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/j1kvv451rxw88c000c.jpg",
    "dateCreated" : "2015-11-13",
    "inLanguage" : "es",
    "genre" : "Comedia, Comedia Romántica",
@@ -353,7 +353,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=472&slug=chicas_paranoicas",
+      "urlTemplate": "https://www.flixlatino.com/title/chicas_paranoicas",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -410,7 +410,7 @@
    "url" : "https://flixlatino.com/title/y_tu_mama_tambien",
    "name" : "Y TU MAMÁ TAMBIÉN",
    "description" : "Aunque pertenecen a clases sociales muy distintas, Julio y Tenoch son grandes amigos. En una fiesta conocen a Luisa, una deprimida chica española casada con un primo de Tenoch. Para superar la crisis, Luisa decide acompañar a los dos chicos en un viaje sin rumbo fijo." ,
-   "image" : "https://flximg.flixlatinogo.com/51ocgxsjm9c88sc4g0.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/2janshlpfcowkg8sco.jpg",
    "dateCreated" : "2001-06-08",
    "inLanguage" : "es",
    "genre" : "Drama, Comedia",
@@ -455,7 +455,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=513&slug=y_tu_mama_tambien",
+      "urlTemplate": "https://flixlatino.com/title/y_tu_mama_tambien",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -512,7 +512,7 @@
    "url" : "https://flixlatino.com/title/solo_quimica",
    "name" : "SÓLO QUÍMICA",
    "description" : "Olivia Romero tiene 22 años, trabaja en una perfumería y no sabe exactamente qué hacer con su vida. El actor argentino Eric Soto, es un joven que lleva toda su vida entre cámaras y sets de rodaje. Eric está acostumbrado a una vida de lujo. Pero algo le llama la atención cuando se cruza con Oli." ,
-   "image" : "https://flximg.flixlatinogo.com/dmqfzdscjc0k0k4sgc.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/oz662a0dl8gwosgs00.jpg",
    "dateCreated" : "2015-07-24",
    "inLanguage" : "es",
    "genre" : "Comedia, Romance, Comedia Romántica",
@@ -547,7 +547,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=483&slug=solo_quimica",
+      "urlTemplate": "https://flixlatino.com/title/solo_quimica",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -604,7 +604,7 @@
    "url" : "https://flixlatino.com/title/manos_sucias",
    "name" : "MANOS SUCIAS",
    "description" : "Dos hermanos que habían estado separados, Jacobo y Delio, se reúnen para mover un cargamento de drogas. Jacobo quiere mudarse a Bogotá y Delio, como tantos otros jóvenes de Buenaventura, quiere convertirse en un rapero famoso para salir de su tierra de pescadores y delincuencia." ,
-   "image" : "https://flximg.flixlatinogo.com/rpbbwe4p82ogg4okgk.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/kwjcg7kr7gg0owg88s.jpg",
    "dateCreated" : "2014-10-09",
    "inLanguage" : "es",
    "genre" : "Aventura, Drama",
@@ -649,7 +649,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=492&slug=manos_sucias",
+      "urlTemplate": "https://flixlatino.com/title/manos_sucias",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -706,7 +706,7 @@
    "url" : "https://flixlatino.com/title/joven_y_alocada",
    "name" : "JOVEN Y ALOCADA",
    "description" : "Daniela es una chica de 17 años criada en el seno de una conservadora familia evangélica. Partida entre la culpa cristiana y su innata rebeldía, Daniela vive una traumática noche de excesos que le traerá el castigo de sus padres y su propio cuestionamiento existencial." ,
-   "image" : "https://flximg.flixlatinogo.com/q8z1ouyvzxw8ggwk0.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/2dytuitjze804skws4.jpg",
    "dateCreated" : "2012-03-29",
    "inLanguage" : "es",
    "genre" : "Comedia, Drama, Romance",
@@ -751,7 +751,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=522&slug=joven_y_alocada",
+      "urlTemplate": "https://flixlatino.com/title/joven_y_alocada",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -808,7 +808,7 @@
    "url" : "https://flixlatino.com/title/el_jugador_de_ajedrez",
    "name" : "EL JUGADOR DE AJEDREZ",
    "description" : "En 1934 Diego Padilla gana el campeonato de España de ajedrez y conoce a una periodista francesa, Marianne Latour, de la cual se enamora. Se van a vivir a Francia, donde poco tiempo después Diego será acusado de espía por los nazis y encerrado en una prisión de las SS." ,
-   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/6jqhdxplpc4koscgg.jpg",
    "dateCreated" : "2017-05-05",
    "inLanguage" : "es",
    "genre" : "Drama",
@@ -853,7 +853,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=522&slug=joven_y_alocada",
+      "urlTemplate": "https://flixlatino.com/title/el_jugador_de_ajedrez",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -910,7 +910,7 @@
    "url" : "https://flixlatino.com/title/la_isla_minima",
    "name" : "LA ISLA MINIMA",
    "description" : "Dos policías, ideológicamente opuestos, son enviados desde Madrid a un pueblo en las marismas del Guadalquivir, para investigar la desaparición de dos chicas adolescentes. En una comunidad anclada en el pasado, tendrán que enfrentarse no sólo a un cruel asesino, sino también a sus propios fantasmas." ,
-   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/xx07amqh5j44okok0g.jpg",
    "dateCreated" : "2014-09-26",
    "inLanguage" : "es",
    "genre" : "Drama, Suspenso, Terror",
@@ -955,7 +955,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=433&slug=la_isla_minima",
+      "urlTemplate": "https://flixlatino.com/title/la_isla_minima",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
