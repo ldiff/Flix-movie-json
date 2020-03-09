@@ -1329,6 +1329,97 @@
     }
    ]
   },
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/Las_Horas_Muertas",
+   "url" : "https://www.flixlatino.com/title/Las_Horas_Muertas",
+   "name" : "Las Horas Muertas",
+   "description" : "Sebastián (17), empieza a cuidar solo el pequeño motel. Miranda (35) se encuentra ocasionalmente en el motel con Mario, su amante. Mario siempre llega tarde al encuentro amoroso por lo que Miranda tiene que esperarlo. Durante esos tiempos muertos, Sebastián y Miranda se van a conocer." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/6e30rs0grfcwoog084.jpg",
+   "dateCreated" : "2014-07-11",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Adriana Paz", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Adriana_Paz"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Kristyan Ferrer",
+     "sameAs" : "https://es.wikipedia.org/wiki/Kristyan_Ferrer"
+    },
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Aarón Fernández Lesur",
+      "sameAs" : "https://www.imdb.com/name/nm1848095/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2014-07-11",
+        "location": {
+          "@type": "Country",
+          "name": "US"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/Las_Horas_Muertas",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt3249158/",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3249158"
+    }
+   ]
+  },
 ]
 }
 
