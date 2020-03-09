@@ -1615,6 +1615,184 @@
     }
    ]
   },
+   {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/Corazon_de_Leon",
+   "url" : "https://www.flixlatino.com/title/Corazon_de_Leon",
+   "name" : "Corazon de Leon",
+   "description" : "Ivana Cornejo es una abogada divorciada. Un día después de perder su celular, ella recibe una llamada de León Godoy, quien encontró su teléfono y tiene la intención de devolverselo. En la conversación telefónica se establece una gran empatía y ambos comienzan a sentir un interés inmediato." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/owuewaiebs0gk4gcg.jpg",
+   "dateCreated" : "2013-08-15",
+   "inLanguage" : "es",
+   "genre" : "Comedia, Comedia Romántica, Romance",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Julieta Díaz", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Julieta_D%C3%ADaz"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Guillermo Francella",
+     "sameAs" : "https://es.wikipedia.org/wiki/Guillermo_Francella"
+    }
+    {
+     "@type" : "Person",
+     "name" : "Mauricio Dayub",
+     "sameAs" : "https://es.wikipedia.org/wiki/Mauricio_Dayub"
+     }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2013-08-15",
+        "location": {
+          "@type": "Country",
+          "name": "VE"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/Corazon_de_Leon",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Coraz%C3%B3n_de_Le%C3%B3n_(pel%C3%ADcula_de_2013)",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2948472"
+    }
+   ]
+  },
+   {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/Corazon_de_Leon",
+   "url" : "https://www.flixlatino.com/title/Corazon_de_Leon",
+   "name" : "Corazon de Leon",
+   "description" : "Ivana Cornejo es una abogada divorciada. Un día después de perder su celular, ella recibe una llamada de León Godoy, quien encontró su teléfono y tiene la intención de devolverselo. En la conversación telefónica se establece una gran empatía y ambos comienzan a sentir un interés inmediato." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/owuewaiebs0gk4gcg.jpg",
+   "dateCreated" : "2013-08-15",
+   "inLanguage" : "es",
+   "genre" : "Comedia, Comedia Romántica, Romance",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Julieta Díaz", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Julieta_D%C3%ADaz"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Guillermo Francella",
+     "sameAs" : "https://es.wikipedia.org/wiki/Guillermo_Francella"
+    }
+    {
+     "@type" : "Person",
+     "name" : "Mauricio Dayub",
+     "sameAs" : "https://es.wikipedia.org/wiki/Mauricio_Dayub"
+     }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2013-08-15",
+        "location": {
+          "@type": "Country",
+          "name": "VE"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/Corazon_de_Leon",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Coraz%C3%B3n_de_Le%C3%B3n_(pel%C3%ADcula_de_2013)",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2948472"
+    }
+   ]
+  },
 ]
 }
 
