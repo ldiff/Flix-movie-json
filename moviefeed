@@ -1420,6 +1420,117 @@
     }
    ]
   },
+ {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/El_Rey_de_la_Habana",
+   "url" : "https://www.flixlatino.com/title/El_Rey_de_la_Habana",
+   "name" : "El Rey de la Habana",
+   "description" : "Cuba, años 90. Tras fugarse de un correccional, Reinaldo trata de sobrevivir en las calles de La Habana. Esperanzas, desencantos, ron, buen humor y sobre todo hambre, le acompañan en su deambular, hasta que conoce a Magda y Yunisleidy." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/796gs5ydgccg8wc8k.jpg",
+   "dateCreated" : "2015-10-16",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Maykol David Tortoló", 
+     "sameAs" : "https://www.imdb.com/name/nm7190668/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Yordanka Ariosa",
+     "sameAs" : "https://www.imdb.com/name/nm3006327/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Héctor Medina",
+     "sameAs" : "https://es.wikipedia.org/wiki/H%C3%A9ctor_Medina"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Ileana Wilson",
+     "sameAs" : "https://www.imdb.com/name/nm0933516/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Chanel Terrero",
+     "sameAs" : "https://www.imdb.com/name/nm4775940/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Jazz Vila",
+     "sameAs" : "https://es.wikipedia.org/wiki/Jazz_Vil%C3%A1"
+    },
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Agustí Villaronga",
+      "sameAs" : "https://es.wikipedia.org/wiki/Agust%C3%AD_Villaronga"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-10-16",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/El_Rey_de_la_Habana",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/El_rey_de_La_Habana",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt4516324"
+    }
+   ]
+  },
 ]
 }
 
