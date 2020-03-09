@@ -1531,6 +1531,90 @@
     }
    ]
   },
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/Perdona_si_te_llamo_amor",
+   "url" : "https://www.flixlatino.com/title/Perdona_si_te_llamo_amor",
+   "name" : "Perdona si te llamo amor",
+   "description" : "Álex tiene 37 años y es un ejecutivo publicitario de éxito, atractivo, inteligente y brillante. Es rechazado por su novia cuando le propone matrimonio. Precisamente en ese momento, Niki, estudiante de 17 años no sólo consigue seducir y enamorar a Álex, sino dar un giro total a su vida." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/ybtiax98opc84k0go0.jpg",
+   "dateCreated" : "2014-06-19",
+   "inLanguage" : "es",
+   "genre" : "Drama, Romance",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Daniele Liotti", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Daniele_Liotti"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Paloma Bloyd",
+     "sameAs" : "https://es.wikipedia.org/wiki/Paloma_Bloyd"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2014-06-14",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/perdona_si_te_llamo_amor",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Perdona_si_te_llamo_amor_(2014)",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3230668"
+    }
+   ]
+  },
 ]
 }
 
