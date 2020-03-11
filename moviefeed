@@ -1842,6 +1842,13 @@
      "sameAs" : "https://es.wikipedia.org/wiki/Vanessa_Bauche"
      }
    ],
+   "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Manolo Caro",
+      "sameAs" : "https://es.wikipedia.org/wiki/Manolo_Caro"
+    }
+   ],
    "releasedEvent": {
         "@type": "PublicationEvent",
         "startDate": "2015-08-14",
@@ -1900,6 +1907,102 @@
      "@type": "PropertyValue",
      "propertyID": "IMDB_ID",
      "value":  "tt3576842"
+    }
+   ]
+  },
+      {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/Casi_treinta",
+   "url" : "https://www.flixlatino.com/title/Casi_treinta",
+   "name" : "Casi treinta",
+   "description" : "En Casi Treinta, Emilio, un empleado rico de una aerolínea, encuentra su nuevo amor en Cristina de 18 años de edad. Ellos rompen después que Emilio se vuelve absorbido por su trabajo. Eventualmente, Emilio se compromete con una mujer de su misma edad, Lucía, pero no puede ser del todo feliz." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/CASI_TREINTA.jpg",
+   "dateCreated" : "2014-08-21",
+   "inLanguage" : "mx",
+   "genre" : "Comedia, Comedia Romántica, Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Manuel Balbi", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Manuel_Balbi"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Eiza González",
+     "sameAs" : "https://es.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez"
+    }
+    {
+     "@type" : "Person",
+     "name" : "Sara Maldonado",
+     "sameAs" : "https://es.wikipedia.org/wiki/Sara_Maldonado"
+     }
+   ],
+   "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Alejandro Sugich",
+      "sameAs" : "https://www.imdb.com/name/nm2364887/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2014-08-21",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/Casi_treinta",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Casi_treinta",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2063618"
     }
    ]
   },
