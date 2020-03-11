@@ -1138,12 +1138,12 @@
      "@type" : "Person",
      "name" : "Marina Salas", 
      "sameAs" : "https://es.wikipedia.org/wiki/Marina_Salas"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Clara Lago",
      "sameAs" : "https://es.wikipedia.org/wiki/Clara_Lago"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Nerea Camacho",
@@ -1217,6 +1217,7 @@
      "value":  "tt1797504"
     }
    ]
+   }
   },
  {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -1249,12 +1250,12 @@
      "@type" : "Person",
      "name" : "Yuliet Cruz", 
      "sameAs" : "https://www.imdb.com/name/nm1522834/"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Amaly Junco",
      "sameAs" : "https://www.imdb.com/name/nm6397817/"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Armando Miguel Gómez",
@@ -1328,6 +1329,7 @@
      "value":  "tt3595966"
     }
    ]
+   }
   },
   {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -1350,7 +1352,7 @@
      "@type" : "Person",
      "name" : "Kristyan Ferrer",
      "sameAs" : "https://es.wikipedia.org/wiki/Kristyan_Ferrer"
-    },
+    }
   ],
   "director" : [
     {
@@ -1419,6 +1421,7 @@
      "value":  "tt3249158"
     }
    ]
+   }
   },
  {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -1461,7 +1464,7 @@
      "@type" : "Person",
      "name" : "Jazz Vila",
      "sameAs" : "https://es.wikipedia.org/wiki/Jazz_Vil%C3%A1"
-    },
+    }
   ],
   "director" : [
     {
@@ -1530,6 +1533,7 @@
      "value":  "tt4516324"
     }
    ]
+   }
   },
   {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -1621,6 +1625,7 @@
      "value":  "tt3230668"
     }
    ]
+   }
   },
    {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -1643,7 +1648,7 @@
      "@type" : "Person",
      "name" : "Guillermo Francella",
      "sameAs" : "https://es.wikipedia.org/wiki/Guillermo_Francella"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Mauricio Dayub",
@@ -1717,6 +1722,7 @@
      "value":  "tt2948472"
     }
    ]
+   }
   },
    {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -1739,7 +1745,7 @@
      "@type" : "Person",
      "name" : "Clara Lago",
      "sameAs" : "https://es.wikipedia.org/wiki/Clara_Lago"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Carmen Machi",
@@ -1813,6 +1819,7 @@
      "value":  "tt2955316"
     }
    ]
+   }
   },
      {
    "@context": ["http://schema.org", {"@language": "es"}],
@@ -1835,7 +1842,7 @@
      "@type" : "Person",
      "name" : "Luis Gerardo Méndez",
      "sameAs" : "https://es.wikipedia.org/wiki/Luis_Gerardo_M%C3%A9ndez"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Vanessa Bauche",
@@ -1909,8 +1916,9 @@
      "value":  "tt3576842"
     }
    ]
+   }
   },
-      {
+   {
    "@context": ["http://schema.org", {"@language": "es"}],
    "@type": "Movie", 
    "@id" : "https://www.flixlatino.com/title/Casi_treinta",
@@ -1931,7 +1939,7 @@
      "@type" : "Person",
      "name" : "Eiza González",
      "sameAs" : "https://es.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez"
-    }
+    },
     {
      "@type" : "Person",
      "name" : "Sara Maldonado",
@@ -2005,7 +2013,8 @@
      "value":  "tt2063618"
     }
    ]
-  },
+   }
+  }
 ]
 }
 
