@@ -1707,44 +1707,44 @@
    {
    "@context": ["http://schema.org", {"@language": "es"}],
    "@type": "Movie", 
-   "@id" : "https://www.flixlatino.com/title/Corazon_de_Leon",
-   "url" : "https://www.flixlatino.com/title/Corazon_de_Leon",
-   "name" : "Corazon de Leon",
-   "description" : "Ivana Cornejo es una abogada divorciada. Un día después de perder su celular, ella recibe una llamada de León Godoy, quien encontró su teléfono y tiene la intención de devolverselo. En la conversación telefónica se establece una gran empatía y ambos comienzan a sentir un interés inmediato." ,
-   "image" : "https://flximg.flixlatinogo.com/231_329/owuewaiebs0gk4gcg.jpg",
-   "dateCreated" : "2013-08-15",
+   "@id" : "https://www.flixlatino.com/title/Elvira_te_dar%C3%ADa_mi_vida_pero_la_estoy_usando",
+   "url" : "https://www.flixlatino.com/title/Elvira_te_dar%C3%ADa_mi_vida_pero_la_estoy_usando",
+   "name" : "Elvira te daría mi vida pero la estoy usando",
+   "description" : "Una noche cualquiera, Gustavo, esposo de Elvira, sale a comprar cigarros. Nunca regresa. Elvira, de 40 años y madre de dos hijos, comienza una incansable búsqueda del amor de su vida. Las pistas la llevan a la conclusión de que su marido ha mantenido una relación en secreto." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/37qkj1aom30gok4wog.jpg",
+   "dateCreated" : "2015-08-14",
    "inLanguage" : "es",
-   "genre" : "Comedia, Comedia Romántica, Romance",
+   "genre" : "Comedia, Drama",
    "actor" : [
     {
      "@type" : "Person",
-     "name" : "Julieta Díaz", 
-     "sameAs" : "https://es.wikipedia.org/wiki/Julieta_D%C3%ADaz"
+     "name" : "Cecilia Suárez", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Cecilia_Su%C3%A1rez"
     },
     {
      "@type" : "Person",
-     "name" : "Guillermo Francella",
-     "sameAs" : "https://es.wikipedia.org/wiki/Guillermo_Francella"
+     "name" : "Luis Gerardo Méndez",
+     "sameAs" : "https://es.wikipedia.org/wiki/Luis_Gerardo_M%C3%A9ndez"
     }
     {
      "@type" : "Person",
-     "name" : "Mauricio Dayub",
-     "sameAs" : "https://es.wikipedia.org/wiki/Mauricio_Dayub"
+     "name" : "Vanessa Bauche",
+     "sameAs" : "https://es.wikipedia.org/wiki/Vanessa_Bauche"
      }
    ],
    "releasedEvent": {
         "@type": "PublicationEvent",
-        "startDate": "2013-08-15",
+        "startDate": "2015-08-14",
         "location": {
           "@type": "Country",
-          "name": "VE"
+          "name": "MX"
         }
       },  
    "potentialAction": {
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://www.flixlatino.com/title/Corazon_de_Leon",
+      "urlTemplate": "https://www.flixlatino.com/title/Elvira_te_dar%C3%ADa_mi_vida_pero_la_estoy_usando",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -1784,12 +1784,12 @@
         }
       }
  },
- "sameAs" : "https://es.wikipedia.org/wiki/Coraz%C3%B3n_de_Le%C3%B3n_(pel%C3%ADcula_de_2013)",
+ "sameAs" : "https://es.wikipedia.org/wiki/Elvira,_te_dar%C3%ADa_mi_vida_pero_la_estoy_usando",
   "identifier": [
     {
      "@type": "PropertyValue",
      "propertyID": "IMDB_ID",
-     "value":  "tt2948472"
+     "value":  "tt3576842"
     }
    ]
   },
