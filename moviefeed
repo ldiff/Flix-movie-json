@@ -1554,6 +1554,13 @@
      "sameAs" : "https://es.wikipedia.org/wiki/Paloma_Bloyd"
     }
    ],
+     "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Joaquín Llamas",
+      "sameAs" : "https://www.imdb.com/name/nm1402741/"
+    }
+   ],
    "releasedEvent": {
         "@type": "PublicationEvent",
         "startDate": "2014-06-14",
@@ -1643,6 +1650,13 @@
      "sameAs" : "https://es.wikipedia.org/wiki/Mauricio_Dayub"
      }
    ],
+   "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Marcos Carnevale",
+      "sameAs" : "https://es.wikipedia.org/wiki/Marcos_Carnevale"
+    }
+   ],
    "releasedEvent": {
         "@type": "PublicationEvent",
         "startDate": "2013-08-15",
@@ -1705,6 +1719,102 @@
    ]
   },
    {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/ocho_Apellidos_Vascos",
+   "url" : "https://www.flixlatino.com/title/ocho_Apellidos_Vascos",
+   "name" : "Ocho Apellidos Vascos",
+   "description" : "Rafa es un joven señorito andaluz  para conseguir lo único que le importa en la vida: el fino, la gomina, el Betis y las mujeres. Todo cambia cuando conoce una mujer : es Amaia, una chica vasca. Se traslada a un pueblo de las Vascongadas, donde se hace pasar por vasco." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/bys92cbeju8s4swsgs.jpg",
+   "dateCreated" : "2014-03-14",
+   "inLanguage" : "es",
+   "genre" : "Comedia Romántica",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Dani Rovira", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Dani_Rovira"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Clara Lago",
+     "sameAs" : "https://es.wikipedia.org/wiki/Clara_Lago"
+    }
+    {
+     "@type" : "Person",
+     "name" : "Carmen Machi",
+     "sameAs" : "https://es.wikipedia.org/wiki/Carmen_Machi"
+     }
+   ],
+    "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Emilio Martínez-Lázaro",
+      "sameAs" : "https://es.wikipedia.org/wiki/Emilio_Mart%C3%ADnez-L%C3%A1zaro"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2014-03-14",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/ocho_Apellidos_Vascos",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-12-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/Ocho_apellidos_vascos",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2955316"
+    }
+   ]
+  },
+     {
    "@context": ["http://schema.org", {"@language": "es"}],
    "@type": "Movie", 
    "@id" : "https://www.flixlatino.com/title/Elvira_te_dar%C3%ADa_mi_vida_pero_la_estoy_usando",
