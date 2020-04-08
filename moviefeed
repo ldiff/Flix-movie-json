@@ -3838,6 +3838,944 @@
    ]
   }
 },
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/como_te_llamas",
+   "url" : "https://flixlatino.com/title/como_te_llamas",
+   "name" : "¿COMO TE LLAMAS?",
+   "description" : "Eva y Candela se enfrentan al final de su relación. Se conocieron y se enamoraron, pero lo que las unió los separaría. Sus sueños profesionales se convertirían en su fin." ,
+   "image" : "https://flximg.flixlatinogo.com/7yokdzb0gv8kwggkw.jpg",
+   "dateCreated" : "2013-08-23",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Alejandra Lara", 
+     "sameAs" : "https://www.imdb.com/name/nm5593636/?ref_=tt_cl_t1"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Silvia Varón", 
+     "sameAs" : "https://www.imdb.com/name/nm4927964/?ref_=tt_cl_t2"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Ruth Caudeli",
+      "sameAs" : "https://www.imdb.com/name/nm5168373/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2018-11-01",
+        "location": {
+          "@type": "Country",
+          "name": "CO"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=528&slug=como_te_llamas",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2023-02-28T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt6207634/?ref_=fn_tt_tt_2",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt6207634"
+    }
+   ]
+  }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/3_bodas_de_mas",
+   "url" : "https://flixlatino.com/title/3_bodas_de_mas",
+   "name" : "3 BODAS DE MÁS",
+   "description" : "Ruth, una joven investigadora en una universidad, asiste a las sucesivas bodas de sus ex, de los que fueron sus "hombres de su vida", sin que ella consiga encontrar a su media naranja. ¿Hay algo peor que tu ex novio se case con otra y te invite a su boda? Sí, que te pase tres veces en un mes, no saber decir que no, y que el único al que consigas convencer para que te acompañe sea tu nuevo becario. Un alérgico al compromiso, un surfista pasado de rosca y un transexual convertido en pibón... Tres ex novios para tres bodas. Un cóctel explosivo para Ruth, que tendrá que enfrentarse a su pasado y decidir con quién quiere compartir su futuro." ,
+   "image" : "https://flximg.flixlatinogo.com/tyf16mkortww44o08.jpg",
+   "dateCreated" : "2016-04-01",
+   "inLanguage" : "es",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Inma Cuesta", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Inma_Cuesta"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Quim Gutiérrez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Quim_Guti%C3%A9rrez"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Martiño Rivas", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Marti%C3%B1o_Rivas"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Javier Ruiz Caldera",
+      "sameAs" : "https://www.imdb.com/name/nm1027519/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2013-12-05",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=303&slug=3_bodas_de_mas",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt2418440/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2418440"
+    }
+   ]
+  }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/7_soles",
+   "url" : "https://www.flixlatino.com/title/7_soles",
+   "name" : "7 SOLES",
+   "description" : "El Negro, un “pollero” contratado para cruzar a un grupo de indocumentados a los Estados Unidos, decide que este será su último viaje para la organización porque quiere salirse del negocio. Los jefes sospechan de él y mandan a un subalterno, el Gavilán, a vigilarlo. En la accidentada travesía la juventud y ambición de Gavilán se enfrentan a la experiencia y astucia de un coyote como El Negro. Uno quiere demostrar que está listo para ser el mejor pollero de la organización y el otro busca abandonar el negocio en secreto. El resultado de esta lucha desencadena una serie de eventos en los cuales los únicos perdedores son los inmigrantes. Nada detiene la maquinaria mortal del tráfico de humanos." ,
+   "image" : "https://flximg.flixlatinogo.com/2b90w15vdz8ksoww4s.jpg",
+   "dateCreated" : "2014-05-23",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Gustavo Sánchez Parra", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Gustavo_S%C3%A1nchez_Parra"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Evangelina Sosa", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Evangelina_Sosa"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Pedro Ultreras",
+      "sameAs" : "https://es.wikipedia.org/wiki/Pedro_Ultreras"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2009-04-17",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=225&slug=7_soles",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1175633/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1175633"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/9_meses",
+   "url" : "https://www.flixlatino.com/title/9_meses",
+   "name" : "9 MESES",
+   "description" : "Esta es la historia de un actor tan inmaduro como noble, al que un grupo de mujeres le proponen que se convierta en "su semental". Todas abrigan el deseo de ser madres antes de que sea demasiado tarde; él, por su parte, ve la oportunidad de tener la familia numerosa que siempre soñó." ,
+   "image" : "https://flximg.flixlatinogo.com/inogpopopzk8s8wkcg.jpg",
+   "dateCreated" : "2015-11-13",
+   "inLanguage" : "es",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Enrique Arce", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Enrique_Arce"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Anabel Alfonso", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Anabel_Alonso"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Mónica Cruz", 
+     "sameAs" : "https://en.wikipedia.org/wiki/M%C3%B3nica_Cruz"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Miguel Perelló",
+      "sameAs" : "https://www.imdb.com/name/nm1054843/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2012-10-19",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=451&slug=9_meses",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-10-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1388388/?ref_=ttfc_fc_tt",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1388388"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/acorazado",
+   "url" : "https://flixlatino.com/title/acorazado",
+   "name" : "ACORAZADO",
+   "description" : "Silverio Palacios, un ex miembro de la unión de Veracruz, México, decide cumplir la ultima voluntad de su viejo amigo Alacrán, navegando a Miami en busca del sueño americano. Convencido de que es completamente ineficaz cruzar la frontera para convertirse en uno de los millones de mexicanos fugitivos, Silverio transforma su viejo taxi abandonado en una balsa que lo llevará a través del Golfo de México hasta la costa de la Florida." ,
+   "image" : "https://flximg.flixlatinogo.com/51ocgxsjm9c88sc4g0.jpg",
+   "dateCreated" : "2001-06-08",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Silverio Palacios", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Silverio_Palacios"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Camille Natta", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Camille_Natta"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Álvaro Curiel",
+      "sameAs" : "https://www.imdb.com/name/nm0004071/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2012-06-21",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=6&slug=acorazado",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1174933/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1174933"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/adios_mundo_cruel",
+   "url" : "https://flixlatino.com/title/adios_mundo_cruel",
+   "name" : "ADIOS MUNDO CRUEL",
+   "description" : "Ángel es un honesto contador que a pesar de ser buen empleado pierde su trabajo. Con una familia que mantener y sin trabajo en la mira, pone a un lado sus principios para formar parte de una banda de ladrones de tercera divisi&oacute;n. Ah&iacute; descubre amistad y lealtad, pero nada de dinero. Bajo esas circunstancias recurre a su &uacute;ltima opci&oacute;n: secuestrar un valioso le&oacute;n del zool&oacute;gico de la ciudad y pedir un rescate." ,
+   "image" : "https://flximg.flixlatinogo.com/dmqfzdscjc0k0k4sgc.jpg",
+   "dateCreated" : "2015-07-24",
+   "inLanguage" : "es",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Carlos Alberto Orozco", 
+     "sameAs" : "https://www.imdb.com/name/nm4398675/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Monica Bejarano", 
+     "sameAs" : "https://www.imdb.com/name/nm2447793/?ref_=tt_cl_t7"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Jack Zagha Kababie",
+      "sameAs" : "https://www.imdb.com/name/nm1981110/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2012-09-21",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=486&slug=ma_ma",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1679141/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1679141"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/after",
+   "url" : "https://flixlatino.com/title/after",
+   "name" : "AFTER",
+   "description" : "Las vidas de Manuel, Ana y Julio, amigos desde la adolescencia, son una impostura. Pese a estar muy cerca de los cuarenta años y haber alcanzado todo aquello que la sociedad dice que les haría felices, buscan desesperadamente una solución para su soledad e insatisfacción. Sus vidas se cruzan una noche de verano en la que vuelven a encontrarse después de un año, y juntos emprenden un viaje hacia el corazón de la noche: sexo, droga, alcohol y excesos; una huida a la adolescencia como única forma de eludir la realidad." ,
+   "image" : "https://flximg.flixlatinogo.com/rpbbwe4p82ogg4okgk.jpg",
+   "dateCreated" : "2014-10-09",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Valeria Alonso", 
+     "sameAs" : "https://www.imdb.com/name/nm2789648/"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Daniel Grao", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Daniel_Grao"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Alberto Rodríguez",
+      "sameAs" : "https://www.imdb.com/name/nm0735705/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2009-10-23",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=9&slug=after",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1249363/?ref_=fn_tt_tt_53",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1249363"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/agallas",
+   "url" : "https://flixlatino.com/title/agallas",
+   "name" : "AGALLAS",
+   "description" : "Sebastián, un delincuente de poca monta recién salido de prisión, decide buscar empleo en una pequeña empresa de Galicia, `Isolina, Productos del Mar`. Pero no por vocación, sino porque algo le dice que el dueño de la empresa, Regueira, no se ha pagado el Jaguar con cangrejos. Astutamente se hace amigo de Raúl, un encargado, y consigue que lo contraten. En un principio, Regueira se lo cree sólo a medias, pero al paso del tiempo se da cuenta que el joven de dientes estropeados tiene agallas y decide convertirlo en su ayudante. Poco a poco, Sebas cambia de aspecto, se gana ropa nueva, nuevos dientes y sobre todo la confianza de su jefe. Ahora parece haber llegado a la cumbre - o casi. Pero, Sebastián, tan listo y tan despiadado, ignora que forma parte de un juego que le supera." ,
+   "image" : "https://flximg.flixlatinogo.com/q8z1ouyvzxw8ggwk0.jpg",
+   "dateCreated" : "2012-03-29",
+   "inLanguage" : "es",
+   "genre" : "Thriller",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Hugo Silva", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Hugo_Silva_(actor)"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Carmelo Gómez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Carmelo_G%C3%B3mez"
+    }   
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Andrés Luque",
+      "sameAs" : "https://www.imdb.com/name/nm1134174/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2009-09-04",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=10&slug=agallas",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1288633/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1288633"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/aguila_roja",
+   "url" : "https://flixlatino.com/title/aguila_roja",
+   "name" : "AGUILA ROJA",
+   "description" : "Aventura, misterio, intrigas palaciegas y el amor, todo se une en una serie para toda la familia. Ambientada en el llamado “Siglo de Oro” español y protagonizada por el maestro Gonzalo de Montalvo, quien decide tomar acción con sus propias manos después de las extrañas circunstancias que rodean el asesinato de su esposa." ,
+   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "dateCreated" : "2017-05-05",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Inma Cuesta", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Inma_Cuesta"
+    },
+    {
+     "@type" : "Person",
+     "name" : "David Janer", 
+     "sameAs" : "https://en.wikipedia.org/wiki/David_Janer"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "José Ramón Ayerra",
+      "sameAs" : "https://www.imdb.com/name/nm2054573/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2011-04-20",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=11&slug=aguila_roja",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1710627/?ref_=fn_al_tt_4",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1710627"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/alacran_enamorado",
+   "url" : "https://flixlatino.com/title/alacran_enamorado",
+   "name" : "ALACRÁN ENAMORADO",
+   "description" : "Julián y su amigo Luis son dos chicos de barrio que forman parte de una banda de violentos neonazis liderada por Solís (Javier Bardem). Julián frecuenta un gimnasio, donde, gracias a la disciplina del boxeo, a la nobleza de su entrenador y al amor de una joven mulata, irá cambiando poco a poco de mentalidad. Entonces empieza a alejarse del grupo, pero Luis no está dispuesto a consentirlo." ,
+   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "dateCreated" : "2014-09-26",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Álex Gónzalez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/%C3%81lex_Gonz%C3%A1lez_(actor)"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Miguel Ángel Silvestre", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Miguel_%C3%81ngel_Silvestre"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Judith Diakhate", 
+     "sameAs" : "https://www.imdb.com/name/nm1890988/?ref_=tt_cl_t4"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Santiago Zannou",
+      "sameAs" : "https://es.wikipedia.org/wiki/Santiago_Zannou"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2013-04-12",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=366&slug=alacran_enamorado",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-06-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt2378079/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2378079"
+    }
+   ]
+  }
+},
+]
+}
 ]
 }
 
