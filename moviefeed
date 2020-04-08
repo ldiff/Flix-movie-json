@@ -2022,7 +2022,7 @@
    "url" : "https://flixlatino.com/title/asu_mare_2",
    "name" : "ASU MARE 2",
    "description" : "Mediados de los noventa. Hace muy poco que Cachín trabaja todos los días en Pataclaun. Es un trabajo estable, le alcanza para vivir y hace lo que le gusta. El tema laboral ya parece estar resuelto. Está contento con su vida, pero le falta algo: el amor de su vida, Emilia." ,
-   "image" : "https://flximg.flixlatinogo.com/7yokdzb0gv8kwggkw.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/244a0azrwkjokkk40g.jpg",
    "dateCreated" : "2013-08-23",
    "inLanguage" : "es",
    "genre" : "Comedy",
@@ -2062,7 +2062,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=374&slug=asu_mare_2",
+      "urlTemplate": "https://flixlatino.com/title/asu_mare_2",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2102,7 +2102,7 @@
         }
       }
  },
- "sameAs" : "https://www.imdb.com/title/tt4528386/?ref_=fn_al_tt_1",
+ "sameAs" : "https://www.imdb.com/title/tt4528386/",
   "identifier": [
     {
      "@type": "PropertyValue",
@@ -2119,7 +2119,7 @@
    "url" : "https://flixlatino.com/title/2_policias_en_apuros",
    "name" : "2 POLICIAS EN APUROS",
    "description" : "Dos policías dominicanos un poco locos. Un agente del FBI con una personalidad completamente diferente. Todos ellos unen sus fuerzas para investigar una red internacional de delincuentes" ,
-   "image" : "https://flximg.flixlatinogo.com/tyf16mkortww44o08.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/90mlzafyseo8gkoc4.jpg",
    "dateCreated" : "2016-04-01",
    "inLanguage" : "es",
    "genre" : "Comedy",
@@ -2159,7 +2159,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=383&slug=2_policias_en_apuros",
+      "urlTemplate": "https://flixlatino.com/title/2_policias_en_apuros",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2199,7 +2199,7 @@
         }
       }
  },
- "sameAs" : "https://www.imdb.com/title/tt5306676/?ref_=fn_al_tt_1",
+ "sameAs" : "https://www.imdb.com/title/tt5306676/",
   "identifier": [
     {
      "@type": "PropertyValue",
@@ -2212,11 +2212,11 @@
   {
    "@context": ["http://schema.org", {"@language": "es"}],
    "@type": "Movie", 
-   "@id" : "https://www.flixlatino.com/title/conducta",
-   "url" : "https://www.flixlatino.com/title/conducta",
+   "@id" : "https://www.flixlatino.com/title/3_bellezas",
+   "url" : "https://www.flixlatino.com/title/3_bellezas",
    "name" : "3 BELLEZAS",
    "description" : "Perla es una ex reina de belleza y madre que sueña con ver coronada a una de sus hijas y que, para lograrlo está dispuesta a todo, incluso acabar con su propia familia." ,
-   "image" : "https://flximg.flixlatinogo.com/2b90w15vdz8ksoww4s.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/3fav98q4f0u80k0scw.jpg",
    "dateCreated" : "2014-05-23",
    "inLanguage" : "es",
    "genre" : "Drama",
@@ -2256,7 +2256,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=361&slug=3_bellezas",
+      "urlTemplate": "https://www.flixlatino.com/title/3_bellezas",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2296,7 +2296,7 @@
         }
       }
  },
- "sameAs" : "https://www.imdb.com/title/tt3790012/?ref_=fn_al_tt_1",
+ "sameAs" : "https://www.imdb.com/title/tt3790012/",
   "identifier": [
     {
      "@type": "PropertyValue",
@@ -2313,7 +2313,7 @@
    "url" : "https://www.flixlatino.com/title/alicia_en_el_pais_de_maria",
    "name" : "ALICÍA EN EL PAIS DE MARÍA",
    "description" : "Tonatiuh (Claudio Lafarga) y María (Bárbara Mori) viven una apasionada y violenta relación. Una noche, al calor de una discusión, sufren un aparatoso choque en el auto. Tonatiuh cae en estado de coma, durante su largo sueño recuerda su relación con María. Por un momento despierta y lo único que alcanza a ver es a Alicia (Stephanie Sigman), su enfermera, a quien termina incluyendo dentro de sus sueños." ,
-   "image" : "https://flximg.flixlatinogo.com/inogpopopzk8s8wkcg.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/aom3lms9iog8cgcwg.jpg",
    "dateCreated" : "2015-11-13",
    "inLanguage" : "es",
    "genre" : "Drama",
@@ -2353,7 +2353,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=373&slug=alicia_en_el_pais_de_maria",
+      "urlTemplate": "https://www.flixlatino.com/title/alicia_en_el_pais_de_maria",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2410,7 +2410,7 @@
    "url" : "https://flixlatino.com/title/azotes_de_barrio",
    "name" : "AZOTES DE BARRIO",
    "description" : "Donay es un joven que cumple sus últimos meses en la cárcel. Un día de visitas conoce a Alicia y se comienza a tejer una relación que llevará al muchacho a pensar en un futuro diferente. Al salir de la cárcel Donay irá en búsqueda del amor pero los azotes del barrio harán que todos sus planes cambien drásticamente empujándolo nuevamente al mundo del crimen." ,
-   "image" : "https://flximg.flixlatinogo.com/51ocgxsjm9c88sc4g0.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/AZOTES_DE_BARRIO.jpg",
    "dateCreated" : "2001-06-08",
    "inLanguage" : "es",
    "genre" : "Drama",
@@ -2450,7 +2450,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=19&slug=azotes_de_barrio",
+      "urlTemplate": "https://flixlatino.com/title/azotes_de_barrio",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2507,7 +2507,7 @@
    "url" : "https://flixlatino.com/title/canciones_de_amor_en_lolitas_club",
    "name" : "CANCIONES DE AMOR EN LOLITA'S CLUB",
    "description" : "Mafias, prostitución, violencia, drogas y blanqueo de dinero conforman el telón de fondo de la historia de Raúl y Valentín, dos hermanos mellizos con vidas muy diferentes: Raúl es un violento policía expedientado por su brutalidad que se encuentra en el punto de mira de ETA y de las mafias de la prostitución. Valentín, su hermano, padece una discapacidad intelectual y vive enamorado de una de las prostitutas del club de carretera donde trabaja como “chico para todo”.  Los destinos de ambos hermanos vuelven a cruzarse dramáticamente cuando Raúl decide desaparecer una temporada de la policía y regresa a visitar a su familia. La vida, en su imprevisibilidad, les depara una terrible sorpresa." ,
-   "image" : "https://flximg.flixlatinogo.com/dmqfzdscjc0k0k4sgc.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/hopc5x3g7zksswgkc8.jpg",
    "dateCreated" : "2015-07-24",
    "inLanguage" : "es",
    "genre" : "Drama",
@@ -2542,7 +2542,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=295&slug=canciones_de_amor_en_lolitas_club",
+      "urlTemplate": "https://flixlatino.com/title/canciones_de_amor_en_lolitas_club",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2599,7 +2599,7 @@
    "url" : "https://flixlatino.com/title/combustion",
    "name" : "COMBUSTIÓN",
    "description" : "Es la historia de un triángulo sexual explosivo que involucra las carreras de autos ilegales, el sexo y el robo." ,
-   "image" : "https://flximg.flixlatinogo.com/rpbbwe4p82ogg4okgk.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/1kmj9tjm1n34gkc8oc.jpg",
    "dateCreated" : "2014-10-09",
    "inLanguage" : "es",
    "genre" : "Acción, Drama",
@@ -2679,7 +2679,7 @@
         }
       }
  },
- "sameAs" : "https://www.imdb.com/title/tt1899142/?ref_=fn_al_tt_1",
+ "sameAs" : "https://www.imdb.com/title/tt1899142/",
   "identifier": [
     {
      "@type": "PropertyValue",
@@ -2696,7 +2696,7 @@
    "url" : "https://flixlatino.com/title/como_sobrevivir_a_una_despedida",
    "name" : "CÓMO SOBREVIVIR A UNA DESPEDIDA",
    "description" : "Alocada historia de un grupo de amigas que a los 27 años no han conseguido lo que soñaban en la adolescencia: un buen trabajo, un novio como el de "Cincuenta sombras de Grey" y vivir en un pisazo céntrico. Como mileuristas, lo único que han logrado es compartir piso, trabajar como becarias, salir con chicos alérgicos al compromiso y comprarse ropa solo en las rebajas. Pero Nora y sus amigas no se rinden ante la cruda realidad. Lo primero que se proponen es organizarle una despedida de soltera inolvidable a Gisela, la más responsable del grupo. Y el destino escogido es Gran Canaria." ,
-   "image" : "https://flximg.flixlatinogo.com/q8z1ouyvzxw8ggwk0.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/8upt831t4o4kssoog.jpg",
    "dateCreated" : "2012-03-29",
    "inLanguage" : "es",
    "genre" : "Comedia",
@@ -2741,7 +2741,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=377&slug=como_sobrevivir_a_una_despedida",
+      "urlTemplate": "https://flixlatino.com/title/como_sobrevivir_a_una_despedida",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2797,8 +2797,8 @@
    "@id" : "https://flixlatino.com/title/carne_de_neon",
    "url" : "https://flixlatino.com/title/carne_de_neon",
    "name" : "CARNE DE NEÓN",
-   "description" : " Ricky se enfrenta al pasado de una madre que le dejó tirado años atrás, y los profundos sentimientos de un hijo que lucha por recuperar el cariño y amor de ella." ,
-   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "description" : "Ricky se enfrenta al pasado de una madre que le dejó tirado años atrás, y los profundos sentimientos de un hijo que lucha por recuperar el cariño y amor de ella." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/37j30uxv9a80g8kw84.jpg",
    "dateCreated" : "2017-05-05",
    "inLanguage" : "es",
    "genre" : "Thriller, Drama",
@@ -2838,7 +2838,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=384&slug=carne_de_neon",
+      "urlTemplate": "https://flixlatino.com/title/carne_de_neon",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
@@ -2878,7 +2878,7 @@
         }
       }
  },
- "sameAs" : "https://www.imdb.com/title/tt1259570/?ref_=fn_al_tt_1",
+ "sameAs" : "https://www.imdb.com/title/tt1259570/",
   "identifier": [
     {
      "@type": "PropertyValue",
@@ -2895,7 +2895,7 @@
    "url" : "https://flixlatino.com/title/diario_de_una_ninfomana",
    "name" : "DIARIO DE UNA NINFÓMANA",
    "description" : "Val tiene 28 años, es una mujer atractiva con estudios universitarios y una situación económica acomodada. Su característica principal es su gran curiosidad sexual, que la convierte en una mujer liberada que busca constantemente nuevas experiencias que sacien esta adicción." ,
-   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "image" : "https://flximg.flixlatinogo.com/231_329/md122z50uuooook8c.jpg",
    "dateCreated" : "2014-09-26",
    "inLanguage" : "es",
    "genre" : "Drama",
@@ -2940,7 +2940,7 @@
      "@type": "WatchAction",
      "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=558&slug=diario_de_una_ninfomana",
+      "urlTemplate": "https://flixlatino.com/title/diario_de_una_ninfomana",
       "actionPlatform": [
        "http://schema.org/DesktopWebPlatform",
        "http://schema.org/MobileWebPlatform",
