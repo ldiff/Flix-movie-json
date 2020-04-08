@@ -2014,7 +2014,982 @@
     }
    ]
    }
+  },
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/asu_mare_2",
+   "url" : "https://flixlatino.com/title/asu_mare_2",
+   "name" : "ASU MARE 2",
+   "description" : "Mediados de los noventa. Hace muy poco que Cachín trabaja todos los días en Pataclaun. Es un trabajo estable, le alcanza para vivir y hace lo que le gusta. El tema laboral ya parece estar resuelto. Está contento con su vida, pero le falta algo: el amor de su vida, Emilia." ,
+   "image" : "https://flximg.flixlatinogo.com/7yokdzb0gv8kwggkw.jpg",
+   "dateCreated" : "2013-08-23",
+   "inLanguage" : "es",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Carlos Alcántara", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Carlos_Alc%C3%A1ntara_Vilar"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Emilia Drago", 
+     "sameAs" : "https://www.imdb.com/name/nm2093976/?ref_=tt_ov_st_sm"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Christian Meier", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Christian_Meier"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Ricardo Maldonado",
+      "sameAs" : "https://www.imdb.com/name/nm5624036/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-04-09",
+        "location": {
+          "@type": "Country",
+          "name": "PE"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=374&slug=asu_mare_2",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-05-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt4528386/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt4528386"
+    }
+   ]
   }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/2_policias_en_apuros",
+   "url" : "https://flixlatino.com/title/2_policias_en_apuros",
+   "name" : "2 POLICIAS EN APUROS",
+   "description" : "Dos policías dominicanos un poco locos. Un agente del FBI con una personalidad completamente diferente. Todos ellos unen sus fuerzas para investigar una red internacional de delincuentes" ,
+   "image" : "https://flximg.flixlatinogo.com/tyf16mkortww44o08.jpg",
+   "dateCreated" : "2016-04-01",
+   "inLanguage" : "es",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Fausto Mata", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Fausto_Mata"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Manolo Ozuna", 
+     "sameAs" : "https://www.imdb.com/name/nm1386721/?ref_=tt_cl_t2"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Adrian Uribe", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Adri%C3%A1n_Uribe"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Francis Disla Ferreira",
+      "sameAs" : "https://www.imdb.com/title/tt5306676/?ref_=fn_al_tt_1"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2016-10-07",
+        "location": {
+          "@type": "Country",
+          "name": "DO"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=383&slug=2_policias_en_apuros",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-09-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt5306676/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt5306676"
+    }
+   ]
+  }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/conducta",
+   "url" : "https://www.flixlatino.com/title/conducta",
+   "name" : "3 BELLEZAS",
+   "description" : "Perla es una ex reina de belleza y madre que sueña con ver coronada a una de sus hijas y que, para lograrlo está dispuesta a todo, incluso acabar con su propia familia." ,
+   "image" : "https://flximg.flixlatinogo.com/2b90w15vdz8ksoww4s.jpg",
+   "dateCreated" : "2014-05-23",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Diana Peñalver", 
+     "sameAs" : "https://www.imdb.com/name/nm6554972/?ref_=tt_cl_t1"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Josette Vidal", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Josette_Vidal"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Fabiola Arace", 
+     "sameAs" : "https://www.imdb.com/name/nm6554973/?ref_=tt_cl_t3"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Carlos Caridad-Montero",
+      "sameAs" : "https://en.wikipedia.org/wiki/Carlos_Caridad_Montero"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-01-23",
+        "location": {
+          "@type": "Country",
+          "name": "VE"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=361&slug=3_bellezas",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-06-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt3790012/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3790012"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/alicia_en_el_pais_de_maria",
+   "url" : "https://www.flixlatino.com/title/alicia_en_el_pais_de_maria",
+   "name" : "ALICÍA EN EL PAIS DE MARÍA",
+   "description" : "Tonatiuh (Claudio Lafarga) y María (Bárbara Mori) viven una apasionada y violenta relación. Una noche, al calor de una discusión, sufren un aparatoso choque en el auto. Tonatiuh cae en estado de coma, durante su largo sueño recuerda su relación con María. Por un momento despierta y lo único que alcanza a ver es a Alicia (Stephanie Sigman), su enfermera, a quien termina incluyendo dentro de sus sueños." ,
+   "image" : "https://flximg.flixlatinogo.com/inogpopopzk8s8wkcg.jpg",
+   "dateCreated" : "2015-11-13",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Barbara Mori", 
+     "sameAs" : "https://en.wikipedia.org/wiki/B%C3%A1rbara_Mori"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Claudio Lafarga", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Claudio_Lafarga"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Stephanie Sigman", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Stephanie_Sigman"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Jesús Magaña Vázquez",
+      "sameAs" : "https://www.imdb.com/name/nm1646023/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-09-03",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=373&slug=alicia_en_el_pais_de_maria",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-09-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt2910888/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2910888"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/azotes_de_barrio",
+   "url" : "https://flixlatino.com/title/azotes_de_barrio",
+   "name" : "AZOTES DE BARRIO",
+   "description" : "Donay es un joven que cumple sus últimos meses en la cárcel. Un día de visitas conoce a Alicia y se comienza a tejer una relación que llevará al muchacho a pensar en un futuro diferente. Al salir de la cárcel Donay irá en búsqueda del amor pero los azotes del barrio harán que todos sus planes cambien drásticamente empujándolo nuevamente al mundo del crimen." ,
+   "image" : "https://flximg.flixlatinogo.com/51ocgxsjm9c88sc4g0.jpg",
+   "dateCreated" : "2001-06-08",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Alexander Da Silva", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Alexander_Da_Silva"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Mariana Francisco", 
+     "sameAs" : "https://www.imdb.com/name/nm9987534/?ref_=tt_cl_t2"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Jackson Gutiérrez", 
+     "sameAs" : "https://www.imdb.com/name/nm5228765/"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Jackson Gutiérrez",
+      "sameAs" : "https://www.imdb.com/name/nm5228765/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2013-05-05",
+        "location": {
+          "@type": "Country",
+          "name": "VE"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=19&slug=azotes_de_barrio",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-06-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt6446876/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt6446876"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/canciones_de_amor_en_lolitas_club",
+   "url" : "https://flixlatino.com/title/canciones_de_amor_en_lolitas_club",
+   "name" : "CANCIONES DE AMOR EN LOLITA'S CLUB",
+   "description" : "Mafias, prostitución, violencia, drogas y blanqueo de dinero conforman el telón de fondo de la historia de Raúl y Valentín, dos hermanos mellizos con vidas muy diferentes: Raúl es un violento policía expedientado por su brutalidad que se encuentra en el punto de mira de ETA y de las mafias de la prostitución. Valentín, su hermano, padece una discapacidad intelectual y vive enamorado de una de las prostitutas del club de carretera donde trabaja como “chico para todo”.  Los destinos de ambos hermanos vuelven a cruzarse dramáticamente cuando Raúl decide desaparecer una temporada de la policía y regresa a visitar a su familia. La vida, en su imprevisibilidad, les depara una terrible sorpresa." ,
+   "image" : "https://flximg.flixlatinogo.com/dmqfzdscjc0k0k4sgc.jpg",
+   "dateCreated" : "2015-07-24",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Eduardo Noriega", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Eduardo_Noriega_(Spanish_actor)"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Flora Martínez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Flora_Mart%C3%ADnez"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Vicente Aranda",
+      "sameAs" : "https://en.wikipedia.org/wiki/Vicente_Aranda"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2007-11-30",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=295&slug=canciones_de_amor_en_lolitas_club",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-02-28T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Lolita%27s_Club",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1010415"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/combustion",
+   "url" : "https://flixlatino.com/title/combustion",
+   "name" : "COMBUSTIÓN",
+   "description" : "Es la historia de un triángulo sexual explosivo que involucra las carreras de autos ilegales, el sexo y el robo." ,
+   "image" : "https://flximg.flixlatinogo.com/rpbbwe4p82ogg4okgk.jpg",
+   "dateCreated" : "2014-10-09",
+   "inLanguage" : "es",
+   "genre" : "Acción, Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Álex González", 
+     "sameAs" : "https://en.wikipedia.org/wiki/%C3%81lex_Gonz%C3%A1lez_(actor)"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Alberto Ammann", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Alberto_Ammann"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Adriana Ugarte", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Adriana_Ugarte"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Daniel Calparsoro",
+      "sameAs" : "https://es.wikipedia.org/wiki/Daniel_Calparsoro"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2013-04-26",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=226&slug=combustion",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-10-27T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1899142/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1899142"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/como_sobrevivir_a_una_despedida",
+   "url" : "https://flixlatino.com/title/como_sobrevivir_a_una_despedida",
+   "name" : "CÓMO SOBREVIVIR A UNA DESPEDIDA",
+   "description" : "Alocada historia de un grupo de amigas que a los 27 años no han conseguido lo que soñaban en la adolescencia: un buen trabajo, un novio como el de "Cincuenta sombras de Grey" y vivir en un pisazo céntrico. Como mileuristas, lo único que han logrado es compartir piso, trabajar como becarias, salir con chicos alérgicos al compromiso y comprarse ropa solo en las rebajas. Pero Nora y sus amigas no se rinden ante la cruda realidad. Lo primero que se proponen es organizarle una despedida de soltera inolvidable a Gisela, la más responsable del grupo. Y el destino escogido es Gran Canaria." ,
+   "image" : "https://flximg.flixlatinogo.com/q8z1ouyvzxw8ggwk0.jpg",
+   "dateCreated" : "2012-03-29",
+   "inLanguage" : "es",
+   "genre" : "Comedia",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Úrsula Corberó", 
+     "sameAs" : "https://en.wikipedia.org/wiki/%C3%9Arsula_Corber%C3%B3"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Natalia de Molina", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Natalia_de_Molina"
+    },
+    {
+     "@type" : "Person",
+     "name" : "María Hervás", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Mar%C3%ADa_Herv%C3%A1s"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Celia de Molina", 
+     "sameAs" : "https://ast.wikipedia.org/wiki/Celia_de_Molina"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Manuela Burló Moreno",
+      "sameAs" : "https://es.wikipedia.org/wiki/Manuela_Burl%C3%B3_Moreno"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-04-24",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=377&slug=como_sobrevivir_a_una_despedida",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-04-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://es.wikipedia.org/wiki/C%C3%B3mo_sobrevivir_a_una_despedida",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3672018"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/carne_de_neon",
+   "url" : "https://flixlatino.com/title/carne_de_neon",
+   "name" : "CARNE DE NEÓN",
+   "description" : " Ricky se enfrenta al pasado de una madre que le dejó tirado años atrás, y los profundos sentimientos de un hijo que lucha por recuperar el cariño y amor de ella." ,
+   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "dateCreated" : "2017-05-05",
+   "inLanguage" : "es",
+   "genre" : "Thriller, Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Mario Casas", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Mario_Casas"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Vicente Romero", 
+     "sameAs" : "https://es.wikipedia.org/wiki/Vicente_Romero_S%C3%A1nchez"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Darío Grandinetti", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Dar%C3%ADo_Grandinetti"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Paco Cabezas",
+      "sameAs" : "https://en.wikipedia.org/wiki/Paco_Cabezas"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2011-01-21",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=384&slug=carne_de_neon",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-09-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt1259570/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1259570"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/diario_de_una_ninfomana",
+   "url" : "https://flixlatino.com/title/diario_de_una_ninfomana",
+   "name" : "DIARIO DE UNA NINFÓMANA",
+   "description" : "Val tiene 28 años, es una mujer atractiva con estudios universitarios y una situación económica acomodada. Su característica principal es su gran curiosidad sexual, que la convierte en una mujer liberada que busca constantemente nuevas experiencias que sacien esta adicción." ,
+   "image" : "https://flximg.flixlatinogo.com/36p74oxbviqs84kw0s.jpg",
+   "dateCreated" : "2014-09-26",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Belén Fabra", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Bel%C3%A9n_Fabra"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Leonardo Sbaraglia", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Leonardo_Sbaraglia"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Ángela Molina", 
+     "sameAs" : "https://en.wikipedia.org/wiki/%C3%81ngela_Molina"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Geraldine Chaplin", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Geraldine_Chaplin"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Christian Molina",
+      "sameAs" : "https://www.imdb.com/name/nm0596668/?ref_=tt_ov_dr"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2008-10-17",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/home/?l=movie&id=558&slug=diario_de_una_ninfomana",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-08-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Diary_of_a_Nymphomaniac",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1111890"
+    }
+   ]
+  }
+},
 ]
 }
 
