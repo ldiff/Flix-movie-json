@@ -2990,6 +2990,854 @@
    ]
   }
 },
+ {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/el_futuro_ya_no_es_lo_que_era",
+   "url" : "https://flixlatino.com/title/el_futuro_ya_no_es_lo_que_era",
+   "name" : "EL FUTURO YA NO ES LO QUE ERA",
+   "description" : "Kar-El es un conocido adivino que se gana la vida descifrando el futuro de los espectadores en una cadena de televisión local. Pero también es Carlos, un tipo incapaz de comprender ni su vida, ni a sus hijos, ni a su ex-mujer, ni siquiera a su madre, una prestigiosa actriz. Carlos está en una encrucijada: seguir siendo un impostor y aceptar la oferta de una televisión nacional para ser el adivino estrella de un exitoso programa, o tirarlo todo por la borda y luchar por el sueño de su vida: ser actor. Cuando está a punto de tomar una decisión, un giro inesperado precipitará los acontecimientos. Algo que cambiará para siempre el futuro de Carlos. Y el de Kar-El." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/18geg5szew3okwgog8.jpg",
+   "dateCreated" : "2013-08-23",
+   "inLanguage" : "es",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Dani Rovira", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Dani_Rovira"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Carmen Maura", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Carmen_Maura"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Carolina Bang", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Carolina_Bang"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Pedro L. Barbero",
+      "sameAs" : "https://www.imdb.com/name/nm0053548/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2016-09-16",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/el_futuro_ya_no_es_lo_que_era",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-03-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt4866320/",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt4866320"
+    }
+   ]
+  }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/familia_gang",
+   "url" : "https://flixlatino.com/title/familia_gang",
+   "name" : "FAMILIA GANG",
+   "description" : "Un alto funcionario del sistema político mexicano decide fingir la captura y muerte de El Coyote, enemigo público número uno de México, y para hacerlo, pacta con su familia, que requiere un doble de cuerpo. Topillero es el encargado de llevar a cabo el plan, pero en el camino se reencuentra con su esposa e hijo, a quienes abandonó años atrás." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/2jqktw9r2kys8g800s.jpg",
+   "dateCreated" : "2016-04-01",
+   "inLanguage" : "es",
+   "genre" : "Comedy",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Rafael Inclán", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Rafael_Incl%C3%A1n"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Elpidia Carrillo", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Elpidia_Carrillo"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Giovanna Zacarías", 
+     "sameAs" : "https://www.imdb.com/name/nm1015884/"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Armando Casas",
+      "sameAs" : "https://es.wikipedia.org/wiki/Armando_Casas"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2016-10-07",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/familia_gang",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-03-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt3179546/?ref_=fn_al_tt_1",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3179546"
+    }
+   ]
+  }
+},
+  {
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/grupo_7",
+   "url" : "https://www.flixlatino.com/title/grupo_7",
+   "name" : "GRUPO 7",
+   "description" : "Perla es una ex reina de belleza y madre que sueña con ver coronada a una de sus hijas y que, para lograrlo está dispuesta a todo, incluso acabar con su propia familia." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/g3ejkmq45ts04sogg8.jpg",
+   "dateCreated" : "2014-05-23",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Mario Casas", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Mario_Casas"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Antonio de la Torre", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Antonio_de_la_Torre_(actor)"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Inma Cuesta", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Inma_Cuesta"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Alberto Rodriguez",
+      "sameAs" : "https://en.wikipedia.org/wiki/Alberto_Rodr%C3%ADguez_Librero"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2012-04-04",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/grupo_7",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-07-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Unit_7",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1924277"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://www.flixlatino.com/title/la_playa_de_los_ahogados",
+   "url" : "https://www.flixlatino.com/title/la_playa_de_los_ahogados",
+   "name" : "LA PLAYA DE LOS AHOGADOS",
+   "description" : "Una mañana, el cadáver de un marinero es arrastrado por la marea hasta la orilla. Si no tuviese las manos atadas, Justo Castelo sería otro de los hijos de la mar que encontró su tumba entre las aguas mientras faenaba. Sin testigos ni rastro de la embarcación, el inspector Leo Caldas se sumerge en el ambiente marinero del pueblo para esclarecer el crimen, pero los vecinos se resisten a desvelar sus sospechas." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/dic7sdy6zz4kokcg04.jpg",
+   "dateCreated" : "2015-11-13",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Carmelo Gómez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Carmelo_G%C3%B3mez"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Antonio Garrido", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Antonio_Garrido_(actor)"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Gerardo Herrero",
+      "sameAs" : "https://en.wikipedia.org/wiki/Gerardo_Herrero"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-10-09",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.flixlatino.com/title/la_playa_de_los_ahogados",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-09-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt3721072/?ref_=nv_sr_srsg_0",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3721072"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/llevate_mis_amores",
+   "url" : "https://flixlatino.com/title/llevate_mis_amores",
+   "name" : "LLÉVATE MIS AMORES",
+   "description" : "Un acercamiento íntimo a Las Patronas, un grupo de mujeres mexicanas que desde 1995 prepara comida todos los días y la lanzan a los migrantes que viajan sobre el tren de carga La Bestia, que viaja rumbo a Estados Unidos. Un diario personal que traza la frontera entre la vida que toca vivir y la vida que se elige; un valiente y deslumbrante ejemplo de amor y solidaridad que contrasta con la violencia que viven las personas que viajan sobre el tren." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/wlrwth2zapwkk0kw04.jpg",
+   "dateCreated" : "2001-06-08",
+   "inLanguage" : "es",
+   "genre" : "Documentary",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Arturo Gonzalez Villaseñor", 
+     "sameAs" : "https://www.imdb.com/name/nm6756393/"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Arturo Gonzalez Villaseñor",
+      "sameAs" : "https://www.imdb.com/name/nm6756393/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2016-10-14",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/llevate_mis_amores",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-03-01T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt4022534/",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt4022534"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/ma_ma",
+   "url" : "https://flixlatino.com/title/ma_ma",
+   "name" : "MA MA",
+   "description" : "Tras serle diagnosticado un cáncer de mama, Magda, una mestra en paro, reacciona sacando a la superficie toda su energía vital. Gracias a su valentía y optimismo, tanto ella como los suyos vivirán insospechadas escenas de humor y delicada felicidad." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/17ty9lpqpdwgokwsgk.jpg",
+   "dateCreated" : "2015-07-24",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Penélope Cruz", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Luis Tosar", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Luis_Tosar"
+    }
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Vicente Aranda",
+      "sameAs" : "https://en.wikipedia.org/wiki/Julio_Medem"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-09-11",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/ma_ma",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2023-10-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Ma_Ma_(2015_film)",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt3480886"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/mentiras_y_gordas",
+   "url" : "https://flixlatino.com/title/mentiras_y_gordas",
+   "name" : "MENTIRAS Y GORDAS",
+   "description" : "Un grupo de chicos se prepara para lo que va a ser el verano de su vida, entre secretos, mentiras, ligues, sexo, confusión y juergas. La mayoría no son conscientes de que, una vez emprendido ese viaje iniciático, no hay marcha atrás y de que las mentiras, al crecer, pueden tener consecuencias nefastas." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/xagcuavvtkgsgs408.jpg",
+   "dateCreated" : "2014-10-09",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Mario Casas", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Mario_Casas"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Ana de Armas", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Ana_de_Armas"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Hugo Silva", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Hugo_Silva_(actor)"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Alfonso Albacete",
+      "sameAs" : "https://www.imdb.com/name/nm0016203/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2009-03-27",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/mentiras_y_gordas",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2020-06-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Mentiras_y_Gordas",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt0822833"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/mexican_gangster",
+   "url" : "https://flixlatino.com/title/mexican_gangster",
+   "name" : "MEXICAN GANGSTER",
+   "description" : "Aunque tiene la forma de una ficción, El más buscado se basa en la vida de Alfredo Ríos Galeana, el ladrón de bancos más prolífico de la historia de México. Sus asaltos, su personalidad, sus fugas y la intensa y larga relación que sostuvo con aquel que finalmente logró detenerlo hacen de esta película el fascinante retrato de un criminal de leyenda." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/2dqjonxvq0w00o4kww.jpg",
+   "dateCreated" : "2017-05-05",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Tenoch Huerta", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Tenoch_Huerta"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Paola Nuñez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Paola_N%C3%BA%C3%B1ez"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "José Manuel Cravioto",
+      "sameAs" : "https://www.imdb.com/name/nm1458283/"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2015-10-16",
+        "location": {
+          "@type": "Country",
+          "name": "MX"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/mexican_gangster",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2021-11-30T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://www.imdb.com/title/tt2255787/?ref_=rvi_tt",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt2255787"
+    }
+   ]
+  }
+},
+{
+   "@context": ["http://schema.org", {"@language": "es"}],
+   "@type": "Movie", 
+   "@id" : "https://flixlatino.com/title/primos",
+   "url" : "https://flixlatino.com/title/primos",
+   "name" : "PRIMOS",
+   "description" : "A Diego (Quim Gutiérrez) lo ha dejado su novia Yolanda (Nuria Gago) cinco días antes de la boda. ¿Qué es lo más maduro y sensato que debe hacer para superarlo? 1.- Presentarse en la iglesia el día de la boda por si ella se arrepiente. 2.- Emborracharse y despotricar junto a sus primos Julián (Raúl Arévalo) y José Miguel (Adrián Lastra). 3.- Ir con sus primos a las fiestas de Comillas, el pueblo donde veraneaban de pequeños, y allí intentar recuperar a Martina (Inma Cuesta), el amor de su adolescencia." ,
+   "image" : "https://flximg.flixlatinogo.com/231_329/22q3lw5wtx6sgows0g.jpg",
+   "dateCreated" : "2014-09-26",
+   "inLanguage" : "es",
+   "genre" : "Drama",
+   "actor" : [
+    {
+     "@type" : "Person",
+     "name" : "Quim Gutiérrez", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Quim_Guti%C3%A9rrez"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Inma Cuesta", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Inma_Cuesta"
+    },
+    {
+     "@type" : "Person",
+     "name" : "Raúl Arévalo", 
+     "sameAs" : "https://en.wikipedia.org/wiki/Ra%C3%BAl_Ar%C3%A9valo"
+    }    
+  ],
+  "director" : [
+    {
+      "@type" : "Person",
+      "name" : "Daniel Sánchez Arévalo",
+      "sameAs" : "https://en.wikipedia.org/wiki/Daniel_S%C3%A1nchez_Ar%C3%A9valo"
+    }
+   ],
+   "releasedEvent": {
+        "@type": "PublicationEvent",
+        "startDate": "2011-02-04",
+        "location": {
+          "@type": "Country",
+          "name": "ES"
+        }
+      },  
+   "potentialAction": {
+     "@type": "WatchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://flixlatino.com/title/primos",
+      "actionPlatform": [
+       "http://schema.org/DesktopWebPlatform",
+       "http://schema.org/MobileWebPlatform",
+       "http://schema.org/AndroidPlatform",
+       "http://schema.org/IOSPlatform",
+       "http://schema.googleapis.com/GoogleVideoCast"
+       ]
+   },
+     "actionAccessibilityRequirement": {
+    "@type": "ActionAccessSpecification",
+    "category": "subscription",
+    "availabilityStarts": "2019-01-01T00:00EST",
+    "availabilityEnds": "2022-07-31T00:00EST",
+    "eligibleRegion": [
+      {
+        "@type": "Country",
+        "name": "US"
+      },
+      {
+        "@type": "Country",
+        "name": "PR"
+       }
+     ],
+  "requiresSubscription": {
+    "@type": "MediaSubscription",
+    "@id": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly",
+    "name": "Monthly Subscription",
+    "sameAs": "https://flixlatino.com/?l=registro/creatuusuario&plan=monthly"
+  },
+  "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": 2.99,
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "FlixLatino"
+        }
+      }
+ },
+ "sameAs" : "https://en.wikipedia.org/wiki/Cousinhood",
+  "identifier": [
+    {
+     "@type": "PropertyValue",
+     "propertyID": "IMDB_ID",
+     "value":  "tt1592521"
+    }
+   ]
+  }
+},
 ]
 }
 
