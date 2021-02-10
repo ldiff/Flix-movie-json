@@ -11,21 +11,27 @@
           "position":1,
           "url":"https://flixlatino.com/title/malicia&lang=es",
           "name":"Malicia",
-          "image":"https://flximg.flixlatinogo.com/306_436/3fr3p0eb06kgwc8w88.jpg"
+          "image":"https://flximg.flixlatinogo.com/306_436/3fr3p0eb06kgwc8w88.jpg",
+          "director":"Martín DeSalvo",
+          "dateCreated":"2015"
         },
         {
           "@type":"Movie",
           "position":2,
           "url":"https://flixlatino.com/title/al_sur_de_la_inocencia&lang=es",
           "name":"Al Sur de La Inocencia",
-          "image":"https://flximg.flixlatinogo.com/306_436/1cit4zhc2gcgw8kk08.jpg"
+          "image":"https://flximg.flixlatinogo.com/306_436/1cit4zhc2gcgw8kk08.jpg",
+          "director":"Héctor Valdez",
+          "dateCreated":"2014"
         },
         {
           "@type":"Movie",
           "position":3,
           "url":"https://flixlatino.com/title/migas_de_pan&lang=es",
           "name":"Migas de Pan",
-          "image":"https://flximg.flixlatinogo.com/306_436/o5b8f2ked5w0gk0gkk.jpg"
+          "image":"https://flximg.flixlatinogo.com/306_436/o5b8f2ked5w0gk0gkk.jpg",
+          "director":"Manane Rodríguez",
+          "dateCreated":"2016"
         }
       ]
     }
