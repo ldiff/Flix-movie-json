@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Recommended Movies</title>
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"ItemList",
+      "itemListElement":[
+        {
+          "@type":"Movie",
+          "position":1,
+          "url":"https://flixlatino.com/title/malicia&lang=es"
+        },
+        {
+          "@type":"Movie",
+          "position":2,
+          "url":"https://flixlatino.com/title/al_sur_de_la_inocencia&lang=es"
+        },
+        {
+          "@type":"Movie",
+          "position":3,
+          "url":"https://flixlatino.com/title/migas_de_pan&lang=es"
+        }
+      ]
+    }
+    </script>
+  </head>
