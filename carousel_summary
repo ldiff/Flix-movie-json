@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Recommended Movies</title>
+    <title>Flix Recomienda</title>
     <script type="application/ld+json">
     {
       "@context":"https://schema.org",
@@ -32,7 +32,61 @@
           "image":"https://flximg.flixlatinogo.com/306_436/o5b8f2ked5w0gk0gkk.jpg",
           "director":"Manane Rodríguez",
           "dateCreated":"2016"
-        }
+        },
+        {
+          "@type":"Movie",
+          "position":4,
+          "url":"https://flixlatino.com/title/dia_seis&lang=es",
+          "name":"Día Seis",
+          "image":"https://flximg.flixlatinogo.com/306_436/jme86i9v81css0cgss.jpg",
+          "director":"Juan Pablo Arroyo",
+          "dateCreated":"2016"
+        },
+        {
+          "@type":"Movie",
+          "position":5,
+          "url":"https://flixlatino.com/title/malicia&lang=es",
+          "name":"Malicia",
+          "image":"https://flximg.flixlatinogo.com/306_436/3fr3p0eb06kgwc8w88.jpg",
+          "director":"Martín DeSalvo",
+          "dateCreated":"2015"
+        },
+        {
+          "@type":"Movie",
+          "position":6,
+          "url":"https://flixlatino.com/title/mexican_gangster&lang=es",
+          "name":"Mexican Gangster",
+          "image":"https://flximg.flixlatinogo.com/306_436/2dqjonxvq0w00o4kww.jpg",
+          "director":"José Manuel Cravioto",
+          "dateCreated":"2015"
+        },
+         {
+          "@type":"Movie",
+          "position":7,
+          "url":"https://flixlatino.com/title/asu_mare_2&lang=es",
+          "name":"Asu Mare! 2",
+          "image":"https://flximg.flixlatinogo.com/306_436/244a0azrwkjokkk40g.jpg",
+          "director":"Ricardo Maldonado",
+          "dateCreated":"2015"
+        },
+        {
+          "@type":"Movie",
+          "position":8,
+          "url":"https://flixlatino.com/title/betibu&lang=es",
+          "name":"Betibú",
+          "image":"https://flximg.flixlatinogo.com/306_436/BETIBU.jpg",
+          "director":"Miguel Cohan",
+          "dateCreated":"2013"
+        },
+         {
+          "@type":"Movie",
+          "position":9,
+          "url":"https://flixlatino.com/title/manos_sucias&lang=es",
+          "name":"Manos Sucias",
+          "image":"https://flximg.flixlatinogo.com/306_436/kwjcg7kr7gg0owg88s.jpg",
+          "director":"Josef Kubota Wladyka",
+          "dateCreated":"2015"
+        },
       ]
     }
     </script>
