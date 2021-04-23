@@ -86,25 +86,7 @@
           "image":"https://flximg.flixlatinogo.com/306_436/5eeuzont1u04g040w.jpg",
           "director":"Maryse Sistach",
           "dateCreated":"2011"
-        },
-        {
-          "@type":"Movie",
-          "position":10,
-          "url":"https://flixlatino.com/free/#gente_de_bien",
-          "name":"Gente de Bien",
-          "image":"https://flximg.flixlatinogo.com/306_436/x2xj6wf7zysokwoc00.jpg",
-          "director":"Franco de Lolli",
-          "dateCreated":"2014"
-        },
-        {
-          "@type":"Movie",
-          "position":11,
-          "url":"https://flixlatino.com/free/#magallanes",
-          "name":"Magallanes",
-          "image":"https://flximg.flixlatinogo.com/306_436/3f7bfcck8uascokw0k.jpg",
-          "director":"Salvador del Solar",
-          "dateCreated":"2015"
-        },
+        }
       ]
     }
     </script>
