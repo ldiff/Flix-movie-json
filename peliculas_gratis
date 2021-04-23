@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Películas Gratis</title>
+    <title>Ver películas y series gratis</title>
     <script type="application/ld+json">
     {
       "@context":"https://schema.org",
@@ -63,20 +63,20 @@
         {
           "@type":"Movie",
           "position":7,
-          "url":"https://flixlatino.com/free/#desde_alla",
-          "name":"Desde Allá",
-          "image":"https://flximg.flixlatinogo.com/306_436/a2u2151kfs0k8wccwo.jpg",
-          "director":"Lorenzo Vigas",
+          "url":"https://flixlatino.com/free/#la_casa",
+          "name":"La Casa",
+          "image":"https://flximg.flixlatinogo.com/306_436/ky60i5bfszk0wwsosc.jpg",
+          "director":"Diego Lerman",
           "dateCreated":"2015"
         },
         {
           "@type":"Movie",
           "position":8,
-          "url":"https://app.flixlatino.com/free/#la_casa",
-          "name":"La Casa",
-          "image":"https://flximg.flixlatinogo.com/306_436/ky60i5bfszk0wwsosc.jpg",
-          "director":"Diego Lerman",
-          "dateCreated":"2015"
+          "url":"https://app.flixlatino.com/free/#el_amigo_aleman",
+          "name":"l Amigo Aleman",
+          "image":"https://flximg.flixlatinogo.com/306_436/9it4cy5rzps88cwgs4.jpg",
+          "director":"Jeanine Meerapfel",
+          "dateCreated":"2012"
         },
         {
           "@type":"Movie",
