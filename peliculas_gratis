@@ -9,33 +9,51 @@
         {
           "@type":"Movie",
           "position":1,
-          "url":"https://app.flixlatino.com/free/#la_herida",
-          "name":"La Herida",
-          "image":"https://flximg.flixlatinogo.com/306_436/30tac0biveas0so4cs.jpg",
-          "director":"Fernando Franco",
-          "dateCreated":"2013"
+          "url":"https://app.flixlatino.com/free/#manos_sucias",
+          "name":"Manos Sucias",
+          "image":"https://images.flixlatino.com/imgpath/manos_sucias/poster/336_480/",
+          "director":"Josef Kubota Wladyka",
+          "dateCreated":"2015"
         },
         {
           "@type":"Movie",
           "position":2,
-          "url":"https://flixlatino.com/free/#despertar",
-          "name":"Despertar",
-          "image":"https://flximg.flixlatinogo.com/306_436/305g5q778mm88ww8kk.jpg",
-          "director":"José María Cabral",
-          "dateCreated":"2014"
+          "url":"https://flixlatino.com/free/#el_rey_tuerto",
+          "name":"El Rey Tuerto",
+          "image":"https://images.flixlatino.com/imgpath/el_rey_tuerto/poster/336_480/",
+          "director":"Marc Crehuet",
+          "dateCreated":"2016"
         },
         {
           "@type":"Movie",
           "position":3,
-          "url":"https://flixlatino.com/free/#fermin",
-          "name":"Fermín",
-          "image":"https://flximg.flixlatinogo.com/306_436/tr8pauvdupwg4cccwg.jpg",
-          "director":"Hernán Findling",
-          "dateCreated":"2014"
+          "url":"https://flixlatino.com/free/#lolitas_club",
+          "name":"Lolita's Club",
+          "image":"https://images.flixlatino.com/imgpath/lolitas_club/poster/336_480/",
+          "director":"Vicente Aranda",
+          "dateCreated":"2007"
         },
         {
           "@type":"Movie",
           "position":4,
+          "url":"https://app.flixlatino.com/free/#perro_guardian",
+          "name":"Perro Guardián",
+          "image":"https://images.flixlatino.com/imgpath/perro_guardian/poster/336_480/",
+          "director":"Chinón Higashionna",
+          "dateCreated":"2014"
+        },
+        {
+          "@type":"Movie",
+          "position":5,
+          "url":"https://app.flixlatino.com/free/#mambo",
+          "name":"Mambo",
+          "image":"https://images.flixlatino.com/imgpath/mambo/poster/336_480/",
+          "director":"David Sainz",
+          "dateCreated":"2017"
+        },        
+        {
+          "@type":"Movie",
+          "position":6,
           "url":"https://flixlatino.com/free/#estoy_vivo",
           "name":"Estoy Vivo",
           "image":"https://flximg.flixlatinogo.com/306_436/1artwaao6w74s4skws.jpg",
@@ -44,7 +62,7 @@
         },
         {
           "@type":"Movie",
-          "position":5,
+          "position":7,
           "url":"https://app.flixlatino.com/free/#corazon_del_oceano",
           "name":"El Corazón del Oceano",
           "image":"https://flximg.flixlatinogo.com/306_436/po6zxuj4xk0k8cw84o.jpg",
@@ -53,7 +71,7 @@
         },
         {
           "@type":"Movie",
-          "position":6,
+          "position":8,
           "url":"https://flixlatino.com/free/#secretos_series",
           "name":"Secretos",
           "image":"https://flximg.flixlatinogo.com/306_436/wqogir6um40s8so0w4.jpg",
@@ -62,7 +80,7 @@
         },
         {
           "@type":"Movie",
-          "position":7,
+          "position":9,
           "url":"https://flixlatino.com/free/#la_casa",
           "name":"La Casa",
           "image":"https://flximg.flixlatinogo.com/306_436/ky60i5bfszk0wwsosc.jpg",
@@ -71,16 +89,16 @@
         },
         {
           "@type":"Movie",
-          "position":8,
-          "url":"https://app.flixlatino.com/free/#el_amigo_aleman",
-          "name":"l Amigo Aleman",
-          "image":"https://flximg.flixlatinogo.com/306_436/9it4cy5rzps88cwgs4.jpg",
-          "director":"Jeanine Meerapfel",
-          "dateCreated":"2012"
+          "position":10,
+          "url":"https://app.flixlatino.com/free/#mambo",
+          "name":"Mambo",
+          "image":"https://images.flixlatino.com/imgpath/mambo/poster/336_480/",
+          "director":"David Sainz",
+          "dateCreated":"2017"
         },
         {
           "@type":"Movie",
-          "position":9,
+          "position":11,
           "url":"https://app.flixlatino.com/free/#lluvia_de_luna",
           "name":"Lluvia de Luna",
           "image":"https://flximg.flixlatinogo.com/306_436/5eeuzont1u04g040w.jpg",
