@@ -14,7 +14,7 @@
             "url": "https://app.flixlatino.com/free/#manos_sucias",
             "name": "Manos Sucias",
             "image": "https://images.flixlatino.com/imgpath/manos_sucias/poster/336_480/.jpg",
-            "dateCreated": "2015"
+            "dateCreated": "2015",
             "director": {
               "@type": "Person",
               "name": "Josef Kubota Wladyka"
@@ -29,7 +29,7 @@
             "url": "https://flixlatino.com/free/#lolitas_club",
             "name": "Lolita's Club",
             "image": "https://images.flixlatino.com/imgpath/lolitas_club/poster/336_480/.jpg",
-            "dateCreated": "2007"
+            "dateCreated": "2007",
             "director": {
               "@type": "Person",
               "name": "Vicente Aranda"
@@ -44,7 +44,7 @@
             "url": "https://flixlatino.com/free/#el_rey_tuerto",
             "name": "El Rey Tuerto",
             "image": "https://images.flixlatino.com/imgpath/el_rey_tuerto/poster/336_480/.jpg",
-            "dateCreated":"2016"
+            "dateCreated":"2016",
             "director": {
               "@type": "Person",
               "name": "Marc Crehuet"
@@ -59,7 +59,7 @@
             "url": "https://app.flixlatino.com/free/#perro_guardian",
             "name": "Perro Guardián",
             "image": "https://images.flixlatino.com/imgpath/perro_guardian/poster/336_480/.jpg",
-            "dateCreated": "2014"
+            "dateCreated": "2014",
             "director": {
               "@type": "Person",
               "name": "Chinón Higashionna"
@@ -74,10 +74,10 @@
              "url": "https://app.flixlatino.com/free/#mambo",
              "name": "Mambo",
             "image": "https://images.flixlatino.com/imgpath/mambo/poster/336_480/.jpg",
-            "dateCreated": "2017"
+            "dateCreated": "2017",
              "director": {
               "@type": "Person",
-              "name": David Sainz"
+              "name": "David Sainz"
               }
            }
         },
@@ -89,7 +89,7 @@
             "url": "https://flixlatino.com/free/#la_noche_que_mi_madre_mato_a_mi_padre",
             "name": "La noche que mi madre mató a mi padre",
             "image": "https://images.flixlatino.com/imgpath/la_noche_que_mi_madre_mato_a_mi_padre/poster/336_480/.jpg",
-            "dateCreated": "2016"
+            "dateCreated": "2016",
               "director": {
               "@type": "Person",
               "name": "Inés París"
@@ -104,7 +104,7 @@
             "url": "https://flixlatino.com/free/#magallanes",
             "name": "Magallanes",
             "image": "https://images.flixlatino.com/imgpath/magallanes/poster/336_480/.jpg",
-            "dateCreated": "2015"
+            "dateCreated": "2015",
             "director": {
               "@type": "Person",
               "name": "Salvador del Solar"
