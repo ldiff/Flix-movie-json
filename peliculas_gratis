@@ -18,20 +18,20 @@
         {
           "@type":"Movie",
           "position":2,
-          "url":"https://flixlatino.com/free/#el_rey_tuerto",
-          "name":"El Rey Tuerto",
-          "image":"https://images.flixlatino.com/imgpath/el_rey_tuerto/poster/336_480/",
-          "director":"Marc Crehuet",
-          "dateCreated":"2016"
-        },
-        {
-          "@type":"Movie",
-          "position":3,
           "url":"https://flixlatino.com/free/#lolitas_club",
           "name":"Lolita's Club",
           "image":"https://images.flixlatino.com/imgpath/lolitas_club/poster/336_480/",
           "director":"Vicente Aranda",
           "dateCreated":"2007"
+        },
+        {
+          "@type":"Movie",
+          "position":3,
+          "url":"https://flixlatino.com/free/#el_rey_tuerto",
+          "name":"El Rey Tuerto",
+          "image":"https://images.flixlatino.com/imgpath/el_rey_tuerto/poster/336_480/",
+          "director":"Marc Crehuet",
+          "dateCreated":"2016"
         },
         {
           "@type":"Movie",
@@ -50,19 +50,82 @@
           "image":"https://images.flixlatino.com/imgpath/mambo/poster/336_480/",
           "director":"David Sainz",
           "dateCreated":"2017"
-        },        
+        },  
         {
           "@type":"Movie",
           "position":6,
-          "url":"https://flixlatino.com/free/#estoy_vivo",
-          "name":"Estoy Vivo",
-          "image":"https://flximg.flixlatinogo.com/306_436/1artwaao6w74s4skws.jpg",
-          "director":"Jesús Rodrigo",
-          "dateCreated":"2017"
+          "url":"https://flixlatino.com/free/#la_noche_que_mi_madre_mato_a_mi_padre",
+          "name":"La noche que mi madre mató a mi padre",
+          "image":"https://images.flixlatino.com/imgpath/la_noche_que_mi_madre_mato_a_mi_padre/poster/336_480/",
+          "director":"Inés París",
+          "dateCreated":"2016"
         },
         {
           "@type":"Movie",
           "position":7,
+          "url":"https://flixlatino.com/free/#magallanes",
+          "name":"Magallanes",
+          "image":"https://images.flixlatino.com/imgpath/magallanes/poster/336_480/",
+          "director":"Salvador del Solar",
+          "dateCreated":"2015"
+        },        
+        {
+          "@type":"Movie",
+          "position":8,
+          "url":"https://flixlatino.com/free/#espejos",
+          "name":"Espejos",
+          "image":"https://images.flixlatino.com/imgpath/espejos/poster/336_480/",
+          "director":"César Manzano",
+          "dateCreated":"2014"
+        },
+        {
+          "@type":"Movie",
+          "position":9,
+          "url":"https://flixlatino.com/free/#el_club_de_los_incomprendidos",
+          "name":"El Club de los Incomprendidos",
+          "image":"https://images.flixlatino.com/imgpath/el_club_de_los_incomprendidos/poster/336_480/",
+          "director":"Carlos Sedes",
+          "dateCreated":"2014"
+        },
+        {
+          "@type":"Movie",
+          "position":10,
+          "url":"https://flixlatino.com/free/#quatretondeta",
+          "name":"Quatretondeta",
+          "image":"https://images.flixlatino.com/imgpath/quatretondeta/poster/336_480/",
+          "director":"Pol Rodríguez",
+          "dateCreated":"2016"
+        },
+        {
+          "@type":"Movie",
+          "position":11,
+          "url":"https://flixlatino.com/free/#el_ministerio_del_tiempo",
+          "name":"El Ministerio del Tiempo",
+          "image":"https://images.flixlatino.com/imgpath/el_ministerio_del_tiempo/poster/336_480/",
+          "director":"Marc Vigil",
+          "dateCreated":"2015"
+        },
+        {
+          "@type":"Movie",
+          "position":12,
+          "url":"https://flixlatino.com/free/#estoy_vivo",
+          "name":"Estoy Vivo",
+          "image":"https://images.flixlatino.com/imgpath/estoy_vivo/poster/336_480/",
+          "director":"Jesús Rodrigo",
+          "dateCreated":"2019"
+        },
+        {
+          "@type":"Movie",
+          "position":13,
+          "url":"https://flixlatino.com/free/#matter_of_respect",
+          "name":"Matter of Respect",
+          "image":"https://images.flixlatino.com/imgpath/estoy_vivo/poster/336_480/",
+          "director":"Altan Dönmez",
+          "dateCreated":"2015"
+        },
+        {
+          "@type":"Movie",
+          "position":14,
           "url":"https://app.flixlatino.com/free/#corazon_del_oceano",
           "name":"El Corazón del Oceano",
           "image":"https://flximg.flixlatinogo.com/306_436/po6zxuj4xk0k8cw84o.jpg",
@@ -71,7 +134,16 @@
         },
         {
           "@type":"Movie",
-          "position":8,
+          "position":15,
+          "url":"https://flixlatino.com/free/#la_espanola_inglesa",
+          "name":"La Española Inglesa",
+          "image":"https://flximg.flixlatinogo.com/306_436/wqogir6um40s8so0w4.jpg",
+          "director":"Marco A. Castillo",
+          "dateCreated":"2015"
+        },
+        {
+          "@type":"Movie",
+          "position":16,
           "url":"https://flixlatino.com/free/#secretos_series",
           "name":"Secretos",
           "image":"https://flximg.flixlatinogo.com/306_436/wqogir6um40s8so0w4.jpg",
@@ -80,31 +152,22 @@
         },
         {
           "@type":"Movie",
-          "position":9,
+          "position":17,
+          "url":"https://app.flixlatino.com/free/#solos_se_vive_una_vez",
+          "name":"Sólo se vive una vez",
+          "image":"https://images.flixlatino.com/imgpath/solos_se_vive_una_vez/poster/336_480/",
+          "director":"Federico Cueva",
+          "dateCreated":"2017"
+        },
+        {
+          "@type":"Movie",
+          "position":18,
           "url":"https://flixlatino.com/free/#la_casa",
           "name":"La Casa",
           "image":"https://flximg.flixlatinogo.com/306_436/ky60i5bfszk0wwsosc.jpg",
           "director":"Diego Lerman",
           "dateCreated":"2015"
         },
-        {
-          "@type":"Movie",
-          "position":10,
-          "url":"https://app.flixlatino.com/free/#mambo",
-          "name":"Mambo",
-          "image":"https://images.flixlatino.com/imgpath/mambo/poster/336_480/",
-          "director":"David Sainz",
-          "dateCreated":"2017"
-        },
-        {
-          "@type":"Movie",
-          "position":11,
-          "url":"https://app.flixlatino.com/free/#lluvia_de_luna",
-          "name":"Lluvia de Luna",
-          "image":"https://flximg.flixlatinogo.com/306_436/5eeuzont1u04g040w.jpg",
-          "director":"Maryse Sistach",
-          "dateCreated":"2011"
-        }
       ]
     }
     </script>
