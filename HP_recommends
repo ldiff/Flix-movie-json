@@ -1,0 +1,122 @@
+<html>
+  <head>
+    <title>Películas y series recomendadas por FlixLatino</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": "1",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/sexo_facil",
+            "name": "Sexo Fácil, Películas Tristes",
+            "image": "https://images.flixlatino.com/imgpath/sexo_facil/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "2",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/un_cuento_chino",
+            "name": "Un Cuento Chino",
+            "image": "https://images.flixlatino.com/imgpath/un_cuento_chino/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "3",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/que_dios_nos_perdone",
+            "name": "Que Dios nos Perdone",
+            "image": "https://images.flixlatino.com/imgpath/que_dios_nos_perdone/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "4",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/betibu",
+            "name": "Betibú",
+            "image": "https://images.flixlatino.com/imgpath/betibu/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "5",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/pelo_malo",
+            "name": "Pelo Malo",
+            "image": "https://images.flixlatino.com/imgpath/pelo_malo/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "6",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/asu_mare_2",
+            "name": "Asu Mare! 2",
+            "image": "https://images.flixlatino.com/imgpath/asu_mare_2/poster/336_480/.jpg",
+           }
+        },     
+        {
+          "@type": "ListItem",
+          "position": "7",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/manos_sucias",
+            "name": "Manos Sucias",
+            "image": "https://images.flixlatino.com/imgpath/manos_sucias/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "8",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/torrente_2_mision_en_marbella",
+            "name": "Torrente 2: Misión en Marbella",
+            "image": "https://images.flixlatino.com/imgpath/torrente_2_mision_en_marbella/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "9",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/combustion",
+            "name": "Combustión",
+            "image": "https://images.flixlatino.com/imgpath/combustion/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "10",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/el_arriero",
+            "name": "El Arriero",
+            "image": "https://images.flixlatino.com/imgpath/el_arriero/poster/336_480/.jpg",
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "10",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/el_arriero",
+            "name": "El Arriero",
+            "image": "https://images.flixlatino.com/imgpath/el_arriero/poster/336_480/.jpg",
+           }
+        },           
+      ]
+    }
+    </script>
+  </head>
