@@ -13,7 +13,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/sexo_facil",
             "name": "Sexo Fácil, Películas Tristes",
-            "image": "https://images.flixlatino.com/imgpath/sexo_facil/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/sexo_facil/poster/336_480/.jpg"
            }
         },
         {
@@ -23,7 +23,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/un_cuento_chino",
             "name": "Un Cuento Chino",
-            "image": "https://images.flixlatino.com/imgpath/un_cuento_chino/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/un_cuento_chino/poster/336_480/.jpg"
            }
         },
         {
@@ -33,7 +33,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/que_dios_nos_perdone",
             "name": "Que Dios nos Perdone",
-            "image": "https://images.flixlatino.com/imgpath/que_dios_nos_perdone/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/que_dios_nos_perdone/poster/336_480/.jpg"
            }
         },
         {
@@ -53,7 +53,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/pelo_malo",
             "name": "Pelo Malo",
-            "image": "https://images.flixlatino.com/imgpath/pelo_malo/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/pelo_malo/poster/336_480/.jpg"
            }
         },
         {
@@ -63,7 +63,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/asu_mare_2",
             "name": "Asu Mare! 2",
-            "image": "https://images.flixlatino.com/imgpath/asu_mare_2/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/asu_mare_2/poster/336_480/.jpg"
            }
         },     
         {
@@ -73,7 +73,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/manos_sucias",
             "name": "Manos Sucias",
-            "image": "https://images.flixlatino.com/imgpath/manos_sucias/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/manos_sucias/poster/336_480/.jpg"
            }
         },
         {
@@ -83,7 +83,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/torrente_2_mision_en_marbella",
             "name": "Torrente 2: Misión en Marbella",
-            "image": "https://images.flixlatino.com/imgpath/torrente_2_mision_en_marbella/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/torrente_2_mision_en_marbella/poster/336_480/.jpg"
            }
         },
         {
@@ -93,7 +93,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/combustion",
             "name": "Combustión",
-            "image": "https://images.flixlatino.com/imgpath/combustion/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/combustion/poster/336_480/.jpg"
            }
         },
         {
@@ -103,7 +103,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/el_arriero",
             "name": "El Arriero",
-            "image": "https://images.flixlatino.com/imgpath/el_arriero/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/el_arriero/poster/336_480/.jpg"
            }
         },
         {
@@ -113,7 +113,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/el_arriero",
             "name": "El Arriero",
-            "image": "https://images.flixlatino.com/imgpath/el_arriero/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/el_arriero/poster/336_480/.jpg"
            }
         },           
       ]
