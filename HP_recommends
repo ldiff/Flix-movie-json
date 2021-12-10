@@ -43,7 +43,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/betibu",
             "name": "Betibú",
-            "image": "https://images.flixlatino.com/imgpath/betibu/poster/336_480/.jpg",
+            "image": "https://images.flixlatino.com/imgpath/betibu/poster/336_480/.jpg"
            }
         },
         {
@@ -108,14 +108,74 @@
         },
         {
           "@type": "ListItem",
-          "position": "10",
+          "position": "11",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/el_arriero",
-            "name": "El Arriero",
-            "image": "https://images.flixlatino.com/imgpath/el_arriero/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/la_jaula_de_oro",
+            "name": "La Jaula de Oroo",
+            "image": "https://images.flixlatino.com/imgpath/la_jaula_de_oro/poster/336_480/.jpg"
            }
-        },           
+        },
+        {
+          "@type": "ListItem",
+          "position": "12",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/vino_para_roba",
+            "name": "Vino Para Robar",
+            "image": "https://images.flixlatino.com/imgpath/vino_para_roba/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "13",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/3_bellezas",
+            "name": "3 Bellezas",
+            "image": "https://images.flixlatino.com/imgpath/3_bellezas/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "14",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/siete_semillas",
+            "name": "Siete Semillas",
+            "image": "https://images.flixlatino.com/imgpath/siete_semillas/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "15",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/extranos_en_la_noche",
+            "name": "Extraños en La Noche",
+            "image": "https://images.flixlatino.com/imgpath/extranos_en_la_noche/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "16",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/solo_quimica",
+            "name": "Sólo Química",
+            "image": "https://images.flixlatino.com/imgpath/solo_quimica/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "17",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/magallanes",
+            "name": "Magallanes",
+            "image": "https://images.flixlatino.com/imgpath/magallanes/poster/336_480/.jpg"
+           }
+        }
       ]
     }
     </script>
