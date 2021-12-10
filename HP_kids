@@ -1,0 +1,182 @@
+<html>
+  <head>
+    <title>Películas y series destacadas de FlixLatino</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": "1",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/truck_games",
+            "name": "Truck Games",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/1cgft89gg1ogs4owwc.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "2",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/pocoyo",
+            "name": "Pocoyo",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/1tf1s0q3jjnogk84k4.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "3",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/dr_panda",
+            "name": "Dr. Panda",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/1jkgmzm3yb9cswwc48.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "4",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/rosita_fresita",
+            "name": "Rosita Fresita",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/lnwmks6hfnk0ww4s4g.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "5",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/Piking_y_sus_amigos",
+            "name": "Piking y sus Amigos",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/349ba7k4s8owkc0440.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "6",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/little_people",
+            "name": "Little People",
+            "image": "https://images.flixlatino.com/imgpath/campeones/poster/336_480/.jpg"
+           }
+        },     
+        {
+          "@type": "ListItem",
+          "position": "7",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/la_fuga",
+            "name": "La Fuga",
+            "image": "https://images.flixlatino.com/imgpath/la_fuga/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "8",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/migas_de_pan",
+            "name": "Migas de Pan",
+            "image": "https://images.flixlatino.com/imgpath/migas_de_pan/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "9",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/pa_que_me_case",
+            "name": "¿Pa` Que Me Casé?",
+            "image": "https://images.flixlatino.com/imgpath/pa_que_me_case/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "10",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/inseparables",
+            "name": "Inseparables",
+            "image": "https://images.flixlatino.com/imgpath/inseparables/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "11",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/sin_hijos",
+            "name": "Sin Hijos",
+            "image": "https://images.flixlatino.com/imgpath/sin_hijos/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "12",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/hasta_que_te_conoci",
+            "name": "Hasta Que Te Conocí",
+            "image": "https://images.flixlatino.com/imgpath/hasta_que_te_conoci/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "13",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/secretos_series",
+            "name": "Secretos",
+            "image": "https://images.flixlatino.com/imgpath/secretos_series/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "14",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/3_bodas_de_mas",
+            "name": "Tres Bodas de Más",
+            "image": "https://images.flixlatino.com/imgpath/3_bodas_de_mas/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "15",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/infieles_serie",
+            "name": "Infieles",
+            "image": "https://images.flixlatino.com/imgpath/infieles_serie/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "16",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/ventanas_al_mar",
+            "name": "Ventanas al Mar",
+            "image": "https://images.flixlatino.com/imgpath/ventanas_al_mar/poster/336_480/.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "17",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/lolitas_club",
+            "name": "Canciones de Amor en Lolita's Club",
+            "image": "https://images.flixlatino.com/imgpath/lolitas_club/poster/336_480/.jpg"
+           }
+        }
+      ]
+    }
+    </script>
+  </head>
