@@ -63,7 +63,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/kids/little_people",
             "name": "Little People",
-            "image": "https://images.flixlatino.com/imgpath/campeones/poster/336_480/.jpg"
+            "image": ""
            }
         },     
         {
@@ -71,9 +71,9 @@
           "position": "7",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/la_fuga",
-            "name": "La Fuga",
-            "image": "https://images.flixlatino.com/imgpath/la_fuga/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/el_closet_de_chloe",
+            "name": "El Closet de Chloe",
+            "image": ""
            }
         },
         {
