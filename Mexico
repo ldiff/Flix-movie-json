@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Ver películas y series gratis</title>
+    <title>Las 10 Mejores Películas y Series Mexicanas en FlixLatino</title>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -11,13 +11,13 @@
           "position": "1",
           "item": {
             "@type": "Movie",
-            "url": "https://app.flixlatino.com/free/#manos_sucias",
-            "name": "Manos Sucias",
-            "image": "https://images.flixlatino.com/imgpath/manos_sucias/poster/336_480/.jpg",
-            "dateCreated": "2015",
+            "url": "https://flixlatino.com/title/hasta_que_te_conoci",
+            "name": "Hasta Que Te Conocí",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/hasta-conoci.jpg",
+            "dateCreated": "2016",
             "director": {
               "@type": "Person",
-              "name": "Josef Kubota Wladyka"
+              "name": "Álvaro Curiel"
               }
            }
         },
@@ -26,13 +26,13 @@
           "position": "2",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/free/#lolitas_club",
-            "name": "Lolita's Club",
-            "image": "https://images.flixlatino.com/imgpath/lolitas_club/poster/336_480/.jpg",
-            "dateCreated": "2007",
+            "url": "https://flixlatino.com/title/Ventanas_al_mar",
+            "name": "Ventanas Al Mar",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/ventanas.jpg",
+            "dateCreated": "2011",
             "director": {
               "@type": "Person",
-              "name": "Vicente Aranda"
+              "name": "Jesús Mario Lozano"
               }
            }
         },
@@ -41,13 +41,13 @@
           "position": "3",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/free/#el_rey_tuerto",
-            "name": "El Rey Tuerto",
-            "image": "https://images.flixlatino.com/imgpath/el_rey_tuerto/poster/336_480/.jpg",
-            "dateCreated":"2016",
+            "url": "https://flixlatino.com/title/mexican_gangster",
+            "name": "Mexican Gangster",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/mexican.jpg",
+            "dateCreated":"2015",
             "director": {
               "@type": "Person",
-              "name": "Marc Crehuet"
+              "name": "José Manuel Cravioto"
               }
            }
         },
@@ -56,13 +56,13 @@
           "position": "4",
           "item": {
             "@type": "Movie",
-            "url": "https://app.flixlatino.com/free/#perro_guardian",
-            "name": "Perro Guardián",
-            "image": "https://images.flixlatino.com/imgpath/perro_guardian/poster/336_480/.jpg",
-            "dateCreated": "2014",
+            "url": "https://flixlatino.com/title/ano_bisiesto",
+            "name": "Año Bisiesto",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/bisiesto.jpg",
+            "dateCreated": "2010",
             "director": {
               "@type": "Person",
-              "name": "Chinón Higashionna"
+              "name": "Michael Rowe"
               }
            }
         },
@@ -71,13 +71,13 @@
           "position": "5",
           "item": {
             "@type": "Movie",
-             "url": "https://app.flixlatino.com/free/#mambo",
-             "name": "Mambo",
-            "image": "https://images.flixlatino.com/imgpath/mambo/poster/336_480/.jpg",
-            "dateCreated": "2017",
+             "url": "https://flixlatino.com/title/Familia_gang",
+             "name": "Familia Gang",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/familia.jpg",
+            "dateCreated": "2014",
              "director": {
               "@type": "Person",
-              "name": "David Sainz"
+              "name": "Armando Casas"
               }
            }
         },
@@ -86,13 +86,13 @@
           "position": "6",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/free/#la_noche_que_mi_madre_mato_a_mi_padre",
-            "name": "La noche que mi madre mató a mi padre",
-            "image": "https://images.flixlatino.com/imgpath/la_noche_que_mi_madre_mato_a_mi_padre/poster/336_480/.jpg",
-            "dateCreated": "2016",
+            "url": "https://flixlatino.com/title/Comprame_un_revolver",
+            "name": "Comprame Un Revolver",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/comprame.jpg",
+            "dateCreated": "2018",
               "director": {
               "@type": "Person",
-              "name": "Inés París"
+              "name": "Julio Hernández Cordón"
               }
            }
         },
@@ -101,13 +101,13 @@
           "position": "7",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/free/#magallanes",
-            "name": "Magallanes",
-            "image": "https://images.flixlatino.com/imgpath/magallanes/poster/336_480/.jpg",
-            "dateCreated": "2015",
+            "url": "https://flixlatino.com/title/En_el_ultimo_trago",
+            "name": "En El Último Trago",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/trago.jpg",
+            "dateCreated": "2014",
             "director": {
               "@type": "Person",
-              "name": "Salvador del Solar"
+              "name": "Jack Zagha Kababie"
               }
            }
         },
@@ -116,13 +116,13 @@
           "position": "8",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/free/#espejos",
-            "name": "Espejos",
-            "image": "https://images.flixlatino.com/imgpath/espejos/poster/336_480/.jpg",
-            "dateCreated": "2014",
+            "url": "https://flixlatino.com/title/de_las_muertas",
+            "name": "De Las Muertas",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/muertas.jpg",
+            "dateCreated": "2016",
             "director": {
               "@type": "Person",
-              "name": "César Manzano"
+              "name": "José Luis Gutiérrez Arias"
               }
            }
         },
@@ -131,13 +131,13 @@
           "position": "9",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/free/#el_club_de_los_incomprendidos",
-            "name": "El Club de los Incomprendidos",
-            "image": "https://images.flixlatino.com/imgpath/el_club_de_los_incomprendidos/poster/336_480/.jpg",
-            "dateCreated": "2014",
+            "url": "https://flixlatino.com/title/eros_una_vez_maria",
+            "name": "Eros Una Vez Maria",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/eros.jpg",
+            "dateCreated": "2007",
             "director": {
               "@type": "Person",
-              "name": "Carlos Sedes"
+              "name": "Jesús Magaña Vázquez"
               }
            }
         },
@@ -146,133 +146,13 @@
           "position": "10",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/free/#quatretondeta",
-            "name": "Quatretondeta",
-            "image": "https://images.flixlatino.com/imgpath/quatretondeta/poster/336_480/",
+            "url": "https://flixlatino.com/title/El_elegido",
+            "name": "El Elegido",
+            "image": "http://www.flixlatino.optfirst.org/assets/images/elegido.jpg",
             "dateCreated": "2016",
             "director": {
               "@type": "Person",
-              "name": "Pol Rodríguez"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "11",
-          "item": {
-            "@type": "Movie",
-            "url": "https://flixlatino.com/free/#el_ministerio_del_tiempo",
-            "name": "El Ministerio del Tiempo",
-            "image": "https://images.flixlatino.com/imgpath/el_ministerio_del_tiempo/poster/336_480/.jpg",
-            "dateCreated": "2015",
-            "director": {
-              "@type": "Person",
-              "name": "Marc Vigil"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "12",
-          "item": {
-            "@type": "Movie",
-            "url": "https://flixlatino.com/free/#estoy_vivo",
-            "name": "Estoy Vivo",
-            "image": "https://images.flixlatino.com/imgpath/estoy_vivo/poster/336_480/.jpg",
-            "dateCreated": "2019",
-            "director": {
-              "@type": "Person",
-              "name": "Jesús Rodrigo"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "13",
-          "item": {
-            "@type": "Movie",
-            "url": "https://flixlatino.com/free/#matter_of_respect",
-            "name": "Matter of Respect",
-            "image": "https://images.flixlatino.com/imgpath/matter_of_respect/poster/336_480/.jpg",
-            "dateCreated": "2015",
-            "director": {
-              "@type": "Person",
-              "name": "Altan Dönmez"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "14",
-          "item": {
-            "@type": "Movie",
-            "url": "https://app.flixlatino.com/free/#corazon_del_oceano",
-            "name": "El Corazón del Oceano",
-            "image": "https://images.flixlatino.com/imgpath/corazon_del_oceano/poster/336_480/.jpg",
-            "dateCreated": "2015",
-            "director": {
-              "@type": "Person",
-              "name": "Pablo Barrera"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "15",
-          "item": {
-            "@type": "Movie",
-            "url": "https://flixlatino.com/free/#la_espanola_inglesa",
-            "name": "La Española Inglesa",
-            "image": "https://images.flixlatino.com/imgpath/la_espanola_inglesa/poster/336_480/.jpg",
-            "dateCreated": "2015",
-            "director": {
-              "@type": "Person",
-              "name": "Marco A. Castillo"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "16",
-          "item": {
-            "@type": "Movie",
-            "url": "https://flixlatino.com/free/#secretos_series",
-            "name": "Secretos",
-            "image": "https://images.flixlatino.com/imgpath/secretos_series/poster/336_480/.jpg",
-            "dateCreated": "2015",
-            "director": {
-              "@type": "Person",
-              "name": "Zeynep Gunay"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "17",
-          "item": {
-            "@type": "Movie",
-            "url": "https://app.flixlatino.com/free/#solos_se_vive_una_vez",
-            "name": "Sólo se vive una vez",
-            "image": "https://images.flixlatino.com/imgpath/solos_se_vive_una_vez/poster/336_480/.jpg",
-            "dateCreated": "2017",
-            "director": {
-              "@type": "Person",
-              "name": "Federico Cueva"
-              }
-           }
-        },
-      {
-          "@type": "ListItem",
-          "position": "18",
-          "item": {
-            "@type": "Movie",
-            "url":"https://flixlatino.com/free/#la_casa",
-            "name":"La Casa",
-            "image":"https://images.flixlatino.com/imgpath/la_casa/poster/336_480/.jpg",
-            "dateCreated": "2015",
-            "director": {
-              "@type": "Person",
-              "name": "Diego Lerman"
+              "name": "Antonio Chavarrías"
               }
            }
         }
