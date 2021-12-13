@@ -81,9 +81,9 @@
           "position": "8",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/migas_de_pan",
-            "name": "Migas de Pan",
-            "image": "https://images.flixlatino.com/imgpath/migas_de_pan/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/dive_olly_dive",
+            "name": "Dive Olly Dive",
+            "image": ""
            }
         },
         {
@@ -91,19 +91,18 @@
           "position": "9",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/pa_que_me_case",
-            "name": "¿Pa` Que Me Casé?",
-            "image": "https://images.flixlatino.com/imgpath/pa_que_me_case/poster/336_480/.jpg"
-           }
+            "url": "https://flixlatino.com/title/kids/angelina_ballerina",
+            "name": "Angelina Ballerina",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/ghkjmnjwebwoo8swo.jpg
         },
         {
           "@type": "ListItem",
           "position": "10",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/inseparables",
-            "name": "Inseparables",
-            "image": "https://images.flixlatino.com/imgpath/inseparables/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/bali",
+            "name": "Bali",
+            "image": ""
            }
         },
         {
@@ -111,9 +110,9 @@
           "position": "11",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/sin_hijos",
-            "name": "Sin Hijos",
-            "image": "https://images.flixlatino.com/imgpath/sin_hijos/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/mono_ve_mono_hace",
+            "name": "Mono Ve Mono Hace",
+            "image": ""
            }
         },
         {
@@ -121,9 +120,9 @@
           "position": "12",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/hasta_que_te_conoci",
-            "name": "Hasta Que Te Conocí",
-            "image": "https://images.flixlatino.com/imgpath/hasta_que_te_conoci/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/sam_el_bombero",
+            "name": "Sam el Bombero",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/jcibtbpwppw8wc0ckw.jpg"
            }
         },
         {
@@ -131,9 +130,9 @@
           "position": "13",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/secretos_series",
-            "name": "Secretos",
-            "image": "https://images.flixlatino.com/imgpath/secretos_series/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/bob_el_constructor",
+            "name": "Bob El Constructor",
+            "image": ""
            }
         },
         {
@@ -141,9 +140,9 @@
           "position": "14",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/3_bodas_de_mas",
-            "name": "Tres Bodas de Más",
-            "image": "https://images.flixlatino.com/imgpath/3_bodas_de_mas/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/kit_n_kate",
+            "name": "Kit n' Kate",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/153rmohx2xus4owwko.jpg"
            }
         },
         {
@@ -151,9 +150,9 @@
           "position": "15",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/infieles_serie",
-            "name": "Infieles",
-            "image": "https://images.flixlatino.com/imgpath/infieles_serie/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/bo_en_accion",
+            "name": "Bo en Acción",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/qm95dhxitkgo4wck0w.jpg"
            }
         },
         {
@@ -161,9 +160,9 @@
           "position": "16",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/ventanas_al_mar",
-            "name": "Ventanas al Mar",
-            "image": "https://images.flixlatino.com/imgpath/ventanas_al_mar/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/frannys_feet",
+            "name": "Franny's Feet",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/3hpeqphq0pusoc0kgk.jpg"
            }
         },
         {
@@ -171,9 +170,9 @@
           "position": "17",
           "item": {
             "@type": "Movie",
-            "url": "https://flixlatino.com/title/lolitas_club",
-            "name": "Canciones de Amor en Lolita's Club",
-            "image": "https://images.flixlatino.com/imgpath/lolitas_club/poster/336_480/.jpg"
+            "url": "https://flixlatino.com/title/kids/mouk",
+            "name": "Mouk",
+            "image": ""
            }
         }
       ]
