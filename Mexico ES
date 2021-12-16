@@ -13,7 +13,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/hasta_que_te_conoci",
             "name": "Hasta Que Te Conocí",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/hasta-conoci.jpg",
+            "image": "https://images.flixlatino.com/imgpath/hasta_que_te_conoci/poster/336_480/",
             "dateCreated": "2016",
             "director": {
               "@type": "Person",
@@ -28,7 +28,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Ventanas_al_mar",
             "name": "Ventanas Al Mar",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/ventanas.jpg",
+            "image": "https://images.flixlatino.com/imgpath/ventanas_al_mar/poster/336_480/",
             "dateCreated": "2011",
             "director": {
               "@type": "Person",
@@ -43,7 +43,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/mexican_gangster",
             "name": "Mexican Gangster",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/mexican.jpg",
+            "image": "https://images.flixlatino.com/imgpath/mexican_gangster/poster/336_480/",
             "dateCreated":"2015",
             "director": {
               "@type": "Person",
@@ -58,7 +58,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/ano_bisiesto",
             "name": "Año Bisiesto",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/bisiesto.jpg",
+            "image": "https://images.flixlatino.com/imgpath/ano_bisiesto/poster/336_480/",
             "dateCreated": "2010",
             "director": {
               "@type": "Person",
@@ -73,7 +73,7 @@
             "@type": "Movie",
              "url": "https://flixlatino.com/title/Familia_gang",
              "name": "Familia Gang",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/familia.jpg",
+            "image": "https://images.flixlatino.com/imgpath/familia_gang/poster/336_480/",
             "dateCreated": "2014",
              "director": {
               "@type": "Person",
@@ -88,7 +88,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Comprame_un_revolver",
             "name": "Comprame Un Revolver",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/comprame.jpg",
+            "image": "https://images.flixlatino.com/imgpath/comprame_un_revolver/poster/336_480/",
             "dateCreated": "2018",
               "director": {
               "@type": "Person",
@@ -103,7 +103,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/En_el_ultimo_trago",
             "name": "En El Último Trago",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/trago.jpg",
+            "image": "https://images.flixlatino.com/imgpath/en_el_ultimo_trago/poster/336_480/",
             "dateCreated": "2014",
             "director": {
               "@type": "Person",
@@ -118,7 +118,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/de_las_muertas",
             "name": "De Las Muertas",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/muertas.jpg",
+            "image": "https://images.flixlatino.com/imgpath/de_las_muertas/poster/336_480/",
             "dateCreated": "2016",
             "director": {
               "@type": "Person",
@@ -133,7 +133,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/eros_una_vez_maria",
             "name": "Eros Una Vez Maria",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/eros.jpg",
+            "image": "https://images.flixlatino.com/imgpath/eros_una_vez_maria/poster/336_480",
             "dateCreated": "2007",
             "director": {
               "@type": "Person",
@@ -148,7 +148,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/El_elegido",
             "name": "El Elegido",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/elegido.jpg",
+            "image": "https://images.flixlatino.com/imgpath/el_elegido/poster/336_480",
             "dateCreated": "2016",
             "director": {
               "@type": "Person",
