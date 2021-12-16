@@ -13,7 +13,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Sin_Hijos",
             "name": "Sin Hijos",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/sin%20hijos.jpg",
+            "image": "https://images.flixlatino.com/imgpath/sin_hijos/poster/336_480/",
             "dateCreated": "2015",
             "director": {
               "@type": "Person",
@@ -28,7 +28,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/el_futbol_o_yo",
             "name": "El futbol o yo",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/fotbol.jpg",
+            "image": "https://images.flixlatino.com/imgpath/el_futbol_o_yo/poster/336_480/",
             "dateCreated": "2017",
             "director": {
               "@type": "Person",
@@ -43,7 +43,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/inseparables",
             "name": "Inseparables",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/inseprables.jpg",
+            "image": "https://images.flixlatino.com/imgpath/inseparables/poster/336_480/",
             "dateCreated":"2016",
             "director": {
               "@type": "Person",
@@ -58,7 +58,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/corazon_de_leon",
             "name": "Corazon de leon",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/corazon.jpg",
+            "image": "https://images.flixlatino.com/imgpath/corazon_de_leon/poster/336_480/",
             "dateCreated": "2012",
             "director": {
               "@type": "Person",
@@ -73,7 +73,7 @@
             "@type": "Movie",
              "url": "https://flixlatino.com/title/xxy",
              "name": "XXY",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/xxy.jpg",
+            "image": "https://images.flixlatino.com/imgpath/xxy/poster/336_480/",
             "dateCreated": "2007",
              "director": {
               "@type": "Person",
@@ -88,7 +88,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/al_final_del_tunel",
             "name": "Al final del tunel",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/tunel.jpg",
+            "image": "https://images.flixlatino.com/imgpath/al_final_del_tunel/poster/336_480/",
             "dateCreated": "2016",
               "director": {
               "@type": "Person",
@@ -103,7 +103,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/te_esperare",
             "name": "Te esperare",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/te%20esperare.jpg",
+            "image": "https://images.flixlatino.com/imgpath/te_esperare/poster/336_480/",
             "dateCreated": "2017",
             "director": {
               "@type": "Person",
@@ -118,7 +118,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/un_cuento_chino",
             "name": "Un cuento chino",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/chino.jpg",
+            "image": "https://images.flixlatino.com/imgpath/un_cuento_chino/poster/336_480/",
             "dateCreated": "2011",
             "director": {
               "@type": "Person",
@@ -133,7 +133,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/el_mundo_de_mateo",
             "name": "El Mundo de Mateo",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/nateo.jpg",
+            "image": "https://images.flixlatino.com/imgpath/el_mundo_de_mateo/poster/336_480/",
             "dateCreated": "2019",
             "director": {
               "@type": "Person",
@@ -148,7 +148,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/solos_se_vive_una_vez",
             "name": "Solo se vive una vez",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/solo%20se.jpg",
+            "image": "https://images.flixlatino.com/imgpath/solos_se_vive_una_vez/poster/336_480/",
             "dateCreated": "2017",
             "director": {
               "@type": "Person",
