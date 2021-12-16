@@ -13,7 +13,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Estoy_vivo",
             "name": "Estoy Vivo",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/download.webp",
+            "image": "https://images.flixlatino.com/imgpath/estoy_vivo/poster/336_480",
             "dateCreated": "2019",
             "director": {
               "@type": "Person",
@@ -28,7 +28,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Diana",
             "name": "Diana",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/Spanish-film-Diana.webp",
+            "image": "https://images.flixlatino.com/imgpath/diana/poster/336_480",
             "dateCreated": "2018",
             "director": {
               "@type": "Person",
@@ -43,7 +43,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Palmeras_en_la_nieve",
             "name": "Palmeras en la Nieve",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/2015-Spanish-film-Palmeras-en-la-Nieve.webp",
+            "image": "https://images.flixlatino.com/imgpath/palmeras_en_la_nieve/poster/336_480",
             "dateCreated":"2015",
             "director": {
               "@type": "Person",
@@ -58,7 +58,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Taxi_a_gibraltar",
             "name": "Taxi a Gibraltar",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/Taxi-a-Gibraltar.webp",
+            "image": "https://images.flixlatino.com/imgpath/taxi_a_gibraltar/poster/336_480",
             "dateCreated": "2019",
             "director": {
               "@type": "Person",
@@ -73,7 +73,7 @@
             "@type": "Movie",
              "url": "https://flixlatino.com/title/Habitacion_en_roma",
              "name": "Habitation en Roma",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/Habitation.webp",
+            "image": "https://images.flixlatino.com/imgpath/habitacion_en_roma/poster/336_480",
             "dateCreated": "2010",
              "director": {
               "@type": "Person",
@@ -88,7 +88,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Embarazados",
             "name": "Embarazados",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/Embarazados.webp",
+            "image": "https://images.flixlatino.com/imgpath/embarazados/poster/336_480",
             "dateCreated": "2016",
               "director": {
               "@type": "Person",
@@ -103,7 +103,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/corazon_del_oceano",
             "name": "El Corazon del Oceano",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/El-Corazon.webp",
+            "image": "https://images.flixlatino.com/imgpath/corazon_del_oceano/poster/336_480",
             "dateCreated": "2015",
             "director": {
               "@type": "Person",
@@ -118,7 +118,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/El_desconocido",
             "name": "El Desconocido",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/El-Desconocido.webp",
+            "image": "https://images.flixlatino.com/imgpath/el_desconocido/poster/336_480",
             "dateCreated": "2015",
             "director": {
               "@type": "Person",
@@ -133,7 +133,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Tres_metros_sobre_el_cielo",
             "name": "Tres metros sobre el cielo",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/Tres-metros.webp",
+            "image": "https://images.flixlatino.com/imgpath/tres_metros_sobre_el_cielo/poster/336_480",
             "dateCreated": "2010",
             "director": {
               "@type": "Person",
@@ -148,7 +148,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Malaka",
             "name": "Malaka",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/Malaka.webp",
+            "image": "https://images.flixlatino.com/imgpath/malaka/poster/336_480",
             "dateCreated": "2019",
             "director": {
               "@type": "Person",
