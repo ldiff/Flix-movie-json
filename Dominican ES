@@ -13,7 +13,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/pa_que_me_case",
             "name": "¿Pa Que Me Case?",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/pa-qA.jpg",
+            "image": "https://images.flixlatino.com/imgpath/pa_que_me_case/poster/336_480/",
             "dateCreated": "2016",
             "director": {
               "@type": "Person",
@@ -28,7 +28,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Todo_incluido",
             "name": "Todo incluido",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/todo.jpg",
+            "image": "https://images.flixlatino.com/imgpath/todo_incluido/poster/336_480/",
             "dateCreated": "2015",
             "director": {
               "@type": "Person",
@@ -43,7 +43,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Jugando_a_bailar",
             "name": "Jugando a Bailar",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/jugand.jpg",
+            "image": "https://images.flixlatino.com/imgpath/jugando_a_bailar/poster/336_480/",
             "dateCreated":"2018",
             "director": {
               "@type": "Person",
@@ -58,7 +58,7 @@
             "@type": "Movie",
             "url": "https://flixlatino.com/title/Pueto_pa_mi",
             "name": "Pueto pa mi",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/pueto.jpg",
+            "image": "https://images.flixlatino.com/imgpath/pueto_pa_mi/poster/336_480/",
             "dateCreated": "2015",
             "director": {
               "@type": "Person",
@@ -73,7 +73,7 @@
             "@type": "Movie",
              "url": "https://flixlatino.com/title/Al_sur_de_la_inocencia",
              "name": "Al sur de la inocencia",
-            "image": "http://www.flixlatino.optfirst.org/assets/images/inocencia.jpg",
+            "image": "https://images.flixlatino.com/imgpath/al_sur_de_la_inocencia/poster/336_480/",
             "dateCreated": "2014",
              "director": {
               "@type": "Person",
