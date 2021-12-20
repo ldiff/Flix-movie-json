@@ -1,0 +1,132 @@
+<html>
+  <head>
+    <title>Películas y series destacadas de FlixLatino</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+         {
+          "@type": "ListItem",
+          "position": "1",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/bob_el_constructor",
+            "name": "Bob El Constructor",
+            "image": ""
+           }
+        },
+         {
+          "@type": "ListItem",
+          "position": "2",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/kit_n_kate",
+            "name": "Kit n' Kate",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/153rmohx2xus4owwko.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "3",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/angelina_ballerina",
+            "name": "Angelina Ballerina",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/ghkjmnjwebwoo8swo.jpg
+            }
+        },
+        {
+          "@type": "ListItem",
+          "position": "4",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/dr_panda",
+            "name": "Dr. Panda",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/1jkgmzm3yb9cswwc48.jpg.webp"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "5",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/rosita_fresita",
+            "name": "Rosita Fresita",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/lnwmks6hfnk0ww4s4g.jpg.webp"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "6",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/las_aventuras_de_meteor",
+            "name": "Las Aventuras de Meteor",
+            "image": ""
+           }
+        },     
+        {
+          "@type": "ListItem",
+          "position": "7",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/Piking_y_sus_amigos",
+            "name": "Piking y sus Amigos",
+            "image": ""
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "8",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/pocoyo",
+            "name": "Pocoyo",
+            "image": ""
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "9",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/dive_olly_dive",
+            "name": "Dive Olly Dive",
+            "image": ""
+            }
+        },
+        {
+          "@type": "ListItem",
+          "position": "10",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/elias",
+            "name": "Elias",
+            "image": ""
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "11",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/mono_ve_mono_hace",
+            "name": "Mono Ve Mono Hace",
+            "image": ""
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "12",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/sam_el_bombero",
+            "name": "Sam el Bombero",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/jcibtbpwppw8wc0ckw.jpg"
+           }
+        }  
+      ]
+    }
+    </script>
+  </head>
