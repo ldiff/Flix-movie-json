@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <title>Películas y series destacadas de FlixLatino</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+         {
+          "@type": "ListItem",
+          "position": "1",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/kit_n_kate",
+            "name": "Kit n' Kate",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/153rmohx2xus4owwko.jpg"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "2",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/angelina_ballerina",
+            "name": "Angelina Ballerina",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/ghkjmnjwebwoo8swo.jpg"
+            }
+        },
+        {
+          "@type": "ListItem",
+          "position": "3",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/dr_panda",
+            "name": "Dr. Panda",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/1jkgmzm3yb9cswwc48.jpg.webp"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "4",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/rosita_fresita",
+            "name": "Rosita Fresita",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/lnwmks6hfnk0ww4s4g.jpg.webp"
+           }
+        },
+        {
+          "@type": "ListItem",
+          "position": "5",
+          "item": {
+            "@type": "Movie",
+            "url": "https://flixlatino.com/title/kids/sam_el_bombero",
+            "name": "Sam el Bombero",
+            "image": "https://kidsassets.flixlatino.com/storage/504_720/jcibtbpwppw8wc0ckw.jpg"
+           }
+        }  
+      ]
+    }
+    </script>
+  </head>
