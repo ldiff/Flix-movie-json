@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Broche de Oro: Comienzos</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "Ver el Tráiler de Broche de Oro Comienzos",
+      "description": "Rafael, Pablo y Anselmo se encuentran en el ancianato. Su amistad crece en función de su sentido del humor y voluntad de vivir. Con su ingenio típico, reclutan a otros residentes para desafiar las reglas y participar en un concurso por un premio.",
+      "thumbnailUrl": [
+        "https://example.com/photos/1x1/photo.jpg",
+        "https://example.com/photos/4x3/photo.jpg",
+        "https://example.com/photos/16x9/photo.jpg"
+       ],
+      "uploadDate": "2016-03-31T08:00:00+08:00",
+      "duration": "PT1M54S",
+      "contentUrl": "https://www.example.com/video/123/file.mp4",
+      "embedUrl": "https://www.example.com/embed/123",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": { "@type": "WatchAction" },
+        "userInteractionCount": 5647018
+      },
+      "regionsAllowed": "US,NL"
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
